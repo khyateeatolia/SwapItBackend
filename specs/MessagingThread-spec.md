@@ -121,22 +121,6 @@ exists)
 
 ---
 
-### markPickupComplete(threadId: string, userId: string) → void
-
-**Purpose:** Mark that the item transaction is complete\
-**Preconditions:**
-
-- threadId exists
-- userId is the seller (listing owner)
-- pickupComplete is currently false
-
-**Postconditions:**
-
-- Sets pickupComplete to true
-- Updates associated listing status to "Sold"
-
-**Returns:** `{success: true}`
-
 ## Data Invariants
 
 1. All threads have unique threadIds
