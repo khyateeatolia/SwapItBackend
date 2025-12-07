@@ -1,0 +1,3474 @@
+{
+  "users": [
+    {
+      "_id": "69350097a3724d6feaa9869a",
+      "userId": "69350097a3724d6feaa9869a",
+      "email": "psharma24@mit.edu",
+      "username": "psharma24",
+      "displayName": "Priya Sharma",
+      "school": "MIT",
+      "verifiedAt": "2025-12-07T04:20:39.258Z",
+      "createdAt": "2025-12-07T04:20:39.260Z"
+    },
+    {
+      "_id": "69350097a3724d6feaa9869b",
+      "userId": "69350097a3724d6feaa9869b",
+      "email": "ktanaka23@mit.edu",
+      "username": "ktanaka23",
+      "displayName": "Kenji Tanaka",
+      "school": "MIT",
+      "verifiedAt": "2025-12-07T04:20:39.260Z",
+      "createdAt": "2025-12-07T04:20:39.260Z"
+    },
+    {
+      "_id": "69350097a3724d6feaa9869c",
+      "userId": "69350097a3724d6feaa9869c",
+      "email": "idubois25@mit.edu",
+      "username": "idubois25",
+      "displayName": "Isabelle  Dubois",
+      "school": "MIT",
+      "verifiedAt": "2025-12-07T04:20:39.260Z",
+      "createdAt": "2025-12-07T04:20:39.260Z"
+    },
+    {
+      "_id": "69350097a3724d6feaa9869d",
+      "userId": "69350097a3724d6feaa9869d",
+      "email": "jwilliams22@mit.edu",
+      "username": "jwilliams22",
+      "displayName": "Jamal Williams",
+      "school": "MIT",
+      "verifiedAt": "2025-12-07T04:20:39.260Z",
+      "createdAt": "2025-12-07T04:20:39.260Z"
+    },
+    {
+      "_id": "69350097a3724d6feaa9869e",
+      "userId": "69350097a3724d6feaa9869e",
+      "email": "srodriguez26@mit.edu",
+      "username": "srodriguez26",
+      "displayName": "Sofia Rodriguez",
+      "school": "MIT",
+      "verifiedAt": "2025-12-07T04:20:39.260Z",
+      "createdAt": "2025-12-07T04:20:39.260Z"
+    },
+    {
+      "_id": "69350099a3724d6feaa9869f",
+      "userId": "69350099a3724d6feaa9869f",
+      "email": "psharma27@wellesley.edu",
+      "username": "psharma27",
+      "displayName": "Priya Sharma",
+      "school": "Wellesley",
+      "verifiedAt": "2025-12-07T04:20:41.247Z",
+      "createdAt": "2025-12-07T04:20:41.247Z"
+    },
+    {
+      "_id": "69350099a3724d6feaa986a0",
+      "userId": "69350099a3724d6feaa986a0",
+      "email": "idubois@wellesley.edu",
+      "username": "idubois",
+      "displayName": "Isabelle  Dubois",
+      "school": "Wellesley",
+      "verifiedAt": "2025-12-07T04:20:41.247Z",
+      "createdAt": "2025-12-07T04:20:41.247Z"
+    },
+    {
+      "_id": "69350099a3724d6feaa986a1",
+      "userId": "69350099a3724d6feaa986a1",
+      "email": "aaliyahj@wellesley.edu",
+      "username": "aaliyahj",
+      "displayName": "Aaliyah Jackson",
+      "school": "Wellesley",
+      "verifiedAt": "2025-12-07T04:20:41.247Z",
+      "createdAt": "2025-12-07T04:20:41.247Z"
+    },
+    {
+      "_id": "69350099a3724d6feaa986a2",
+      "userId": "69350099a3724d6feaa986a2",
+      "email": "sofrod@wellesley.edu",
+      "username": "sofrod",
+      "displayName": "Sofia Rodriguez",
+      "school": "Wellesley",
+      "verifiedAt": "2025-12-07T04:20:41.247Z",
+      "createdAt": "2025-12-07T04:20:41.247Z"
+    },
+    {
+      "_id": "69350099a3724d6feaa986a3",
+      "userId": "69350099a3724d6feaa986a3",
+      "email": "mtanaka@wellesley.edu",
+      "username": "mtanaka",
+      "displayName": "Mei Tanaka",
+      "school": "Wellesley",
+      "verifiedAt": "2025-12-07T04:20:41.247Z",
+      "createdAt": "2025-12-07T04:20:41.247Z"
+    },
+    {
+      "_id": "6935009ba3724d6feaa986a4",
+      "userId": "6935009ba3724d6feaa986a4",
+      "email": "aisha.okonkwo@harvard.edu",
+      "username": "aisha.okonkwo",
+      "displayName": "Aisha Okonkwo",
+      "school": "Harvard",
+      "verifiedAt": "2025-12-07T04:20:43.439Z",
+      "createdAt": "2025-12-07T04:20:43.439Z"
+    },
+    {
+      "_id": "6935009ba3724d6feaa986a5",
+      "userId": "6935009ba3724d6feaa986a5",
+      "email": "javier.rodriguez@harvard.edu",
+      "username": "javier.rodriguez",
+      "displayName": "Javier Rodriguez",
+      "school": "Harvard",
+      "verifiedAt": "2025-12-07T04:20:43.439Z",
+      "createdAt": "2025-12-07T04:20:43.439Z"
+    },
+    {
+      "_id": "6935009ba3724d6feaa986a6",
+      "userId": "6935009ba3724d6feaa986a6",
+      "email": "mei.tanaka@harvard.edu",
+      "username": "mei.tanaka",
+      "displayName": "Mei Tanaka",
+      "school": "Harvard",
+      "verifiedAt": "2025-12-07T04:20:43.439Z",
+      "createdAt": "2025-12-07T04:20:43.439Z"
+    },
+    {
+      "_id": "6935009ba3724d6feaa986a7",
+      "userId": "6935009ba3724d6feaa986a7",
+      "email": "oliver.smith@harvard.edu",
+      "username": "oliver.smith",
+      "displayName": "Oliver Smith",
+      "school": "Harvard",
+      "verifiedAt": "2025-12-07T04:20:43.439Z",
+      "createdAt": "2025-12-07T04:20:43.439Z"
+    },
+    {
+      "_id": "6935009ba3724d6feaa986a8",
+      "userId": "6935009ba3724d6feaa986a8",
+      "email": "priya.sharma@harvard.edu",
+      "username": "priya.sharma",
+      "displayName": "Priya Sharma",
+      "school": "Harvard",
+      "verifiedAt": "2025-12-07T04:20:43.439Z",
+      "createdAt": "2025-12-07T04:20:43.439Z"
+    },
+    {
+      "_id": "6935009da3724d6feaa986a9",
+      "userId": "6935009da3724d6feaa986a9",
+      "email": "isabellarodriguez@bu.edu",
+      "username": "isabellarodriguez",
+      "displayName": "Isabella Rodriguez",
+      "school": "Boston University",
+      "verifiedAt": "2025-12-07T04:20:45.303Z",
+      "createdAt": "2025-12-07T04:20:45.303Z"
+    },
+    {
+      "_id": "6935009da3724d6feaa986aa",
+      "userId": "6935009da3724d6feaa986aa",
+      "email": "davidkim123@bu.edu",
+      "username": "davidkim123",
+      "displayName": "David Kim",
+      "school": "Boston University",
+      "verifiedAt": "2025-12-07T04:20:45.303Z",
+      "createdAt": "2025-12-07T04:20:45.303Z"
+    },
+    {
+      "_id": "6935009da3724d6feaa986ab",
+      "userId": "6935009da3724d6feaa986ab",
+      "email": "aishadiallo@bu.edu",
+      "username": "aishadiallo",
+      "displayName": "Aisha Diallo",
+      "school": "Boston University",
+      "verifiedAt": "2025-12-07T04:20:45.303Z",
+      "createdAt": "2025-12-07T04:20:45.303Z"
+    },
+    {
+      "_id": "6935009da3724d6feaa986ac",
+      "userId": "6935009da3724d6feaa986ac",
+      "email": "ethanoconnell@bu.edu",
+      "username": "ethanoconnell",
+      "displayName": "Ethan O'Connell",
+      "school": "Boston University",
+      "verifiedAt": "2025-12-07T04:20:45.303Z",
+      "createdAt": "2025-12-07T04:20:45.303Z"
+    },
+    {
+      "_id": "6935009da3724d6feaa986ad",
+      "userId": "6935009da3724d6feaa986ad",
+      "email": "meitanaka@bu.edu",
+      "username": "meitanaka",
+      "displayName": "Mei Tanaka",
+      "school": "Boston University",
+      "verifiedAt": "2025-12-07T04:20:45.303Z",
+      "createdAt": "2025-12-07T04:20:45.303Z"
+    },
+    {
+      "_id": "6935009fa3724d6feaa986ae",
+      "userId": "6935009fa3724d6feaa986ae",
+      "email": "aishadiop24@northeastern.edu",
+      "username": "aishadiop24",
+      "displayName": "Aisha Diop",
+      "school": "Northeastern",
+      "verifiedAt": "2025-12-07T04:20:47.175Z",
+      "createdAt": "2025-12-07T04:20:47.175Z"
+    },
+    {
+      "_id": "6935009fa3724d6feaa986af",
+      "userId": "6935009fa3724d6feaa986af",
+      "email": "ethanrodriguez9@northeastern.edu",
+      "username": "ethanrodriguez9",
+      "displayName": "Ethan Rodriguez",
+      "school": "Northeastern",
+      "verifiedAt": "2025-12-07T04:20:47.175Z",
+      "createdAt": "2025-12-07T04:20:47.175Z"
+    },
+    {
+      "_id": "6935009fa3724d6feaa986b0",
+      "userId": "6935009fa3724d6feaa986b0",
+      "email": "meitanaka1@northeastern.edu",
+      "username": "meitanaka1",
+      "displayName": "Mei Tanaka",
+      "school": "Northeastern",
+      "verifiedAt": "2025-12-07T04:20:47.175Z",
+      "createdAt": "2025-12-07T04:20:47.175Z"
+    },
+    {
+      "_id": "6935009fa3724d6feaa986b1",
+      "userId": "6935009fa3724d6feaa986b1",
+      "email": "samueloconnell@northeastern.edu",
+      "username": "samueloconnell",
+      "displayName": "Samuel O'Connell",
+      "school": "Northeastern",
+      "verifiedAt": "2025-12-07T04:20:47.175Z",
+      "createdAt": "2025-12-07T04:20:47.175Z"
+    },
+    {
+      "_id": "6935009fa3724d6feaa986b2",
+      "userId": "6935009fa3724d6feaa986b2",
+      "email": "priyapatel5@northeastern.edu",
+      "username": "priyapatel5",
+      "displayName": "Priya Patel",
+      "school": "Northeastern",
+      "verifiedAt": "2025-12-07T04:20:47.175Z",
+      "createdAt": "2025-12-07T04:20:47.175Z"
+    }
+  ],
+  "listings": [
+    {
+      "_id": "693500d1a3724d6feaa986b3",
+      "listingId": "693500d1a3724d6feaa986b3",
+      "sellerId": "69350097a3724d6feaa9869a",
+      "school": "MIT",
+      "title": "Striped Tee",
+      "description": "Classic navy and white striped t-shirt, size S. Soft cotton material.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081274/swapit/listings/qgwg2udnkcujx0hojpel.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081295/swapit/listings/oy7zyeqkuf900wvztowd.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 12,
+      "status": "Active",
+      "currentHighestBid": 20,
+      "createdAt": "2025-11-13T07:28:41.725Z",
+      "updatedAt": "2025-12-07T04:21:37.157Z"
+    },
+    {
+      "_id": "693500efa3724d6feaa986b4",
+      "listingId": "693500efa3724d6feaa986b4",
+      "sellerId": "69350097a3724d6feaa9869b",
+      "school": "MIT",
+      "title": "Black Jeans",
+      "description": "Slim fit black jeans, size 28. Worn a few times but still in good shape.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081311/swapit/listings/dowcitsepxsl8gtccoqe.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081325/swapit/listings/dsyuds6cebjccjlacv76.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": 27,
+      "createdAt": "2025-12-03T20:36:15.094Z",
+      "updatedAt": "2025-12-07T04:22:07.610Z"
+    },
+    {
+      "_id": "69350117a3724d6feaa986b5",
+      "listingId": "69350117a3724d6feaa986b5",
+      "sellerId": "69350097a3724d6feaa9869c",
+      "school": "MIT",
+      "title": "Puffer Vest",
+      "description": "Lightweight black puffer vest, size M. Perfect for layering.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081347/swapit/listings/mztxujpfddtqnbooljh8.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081365/swapit/listings/x50qidbsayezb9ckshgc.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-21T06:09:59.667Z",
+      "updatedAt": "2025-12-07T04:22:47.227Z"
+    },
+    {
+      "_id": "69350149a3724d6feaa986b6",
+      "listingId": "69350149a3724d6feaa986b6",
+      "sellerId": "69350097a3724d6feaa9869d",
+      "school": "MIT",
+      "title": "Floral Sundress",
+      "description": "Cute floral print sundress, size S. Great for summer!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081392/swapit/listings/tzh2bbyfxlrdhr63wdgx.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081416/swapit/listings/fukgyhryqkwspkec47rv.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "washed",
+      "minAsk": 25,
+      "status": "Active",
+      "currentHighestBid": 49,
+      "createdAt": "2025-11-20T15:56:32.429Z",
+      "updatedAt": "2025-12-07T04:23:37.915Z"
+    },
+    {
+      "_id": "6935016ea3724d6feaa986b7",
+      "listingId": "6935016ea3724d6feaa986b7",
+      "sellerId": "69350097a3724d6feaa9869e",
+      "school": "MIT",
+      "title": "Yoga Pants",
+      "description": "Black yoga pants, size M. Comfortable and stretchy. Minor pilling.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081433/swapit/listings/jdzowtjlo1a75jus7jrw.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081452/swapit/listings/g7hbyylntrc6pjcly3yk.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 15,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-05T08:39:37.211Z",
+      "updatedAt": "2025-12-07T04:24:14.521Z"
+    },
+    {
+      "_id": "6935019ba3724d6feaa986b8",
+      "listingId": "6935019ba3724d6feaa986b8",
+      "sellerId": "69350097a3724d6feaa9869a",
+      "school": "MIT",
+      "title": "Prom Dress",
+      "description": "Elegant navy blue prom dress, size 6. Worn once, excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081476/swapit/listings/z6flbmkixpyufrad62lq.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081497/swapit/listings/e5ngshd7qhhmc3olreiq.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 75,
+      "status": "Active",
+      "currentHighestBid": 88,
+      "createdAt": "2025-12-02T07:18:09.633Z",
+      "updatedAt": "2025-12-07T04:24:59.409Z"
+    },
+    {
+      "_id": "693501c1a3724d6feaa986b9",
+      "listingId": "693501c1a3724d6feaa986b9",
+      "sellerId": "69350097a3724d6feaa9869b",
+      "school": "MIT",
+      "title": "Kurti Top",
+      "description": "Beautiful Indian Kurti top. Size Medium. Worn once.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081517/swapit/listings/c5y8truxulhyx7hkqyhh.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081535/swapit/listings/xtlgaryvgoktng3mxnxo.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 35,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-26T01:07:58.746Z",
+      "updatedAt": "2025-12-07T04:25:37.374Z"
+    },
+    {
+      "_id": "693501eda3724d6feaa986ba",
+      "listingId": "693501eda3724d6feaa986ba",
+      "sellerId": "69350097a3724d6feaa9869c",
+      "school": "MIT",
+      "title": "Cocktail Dress",
+      "description": "Little black cocktail dress. Perfect for parties. Size S.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081558/swapit/listings/khkqpqxywwsuvwdm964l.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081579/swapit/listings/d3wievt2zuecbxxvhywi.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 40,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-25T06:48:49.852Z",
+      "updatedAt": "2025-12-07T04:26:21.250Z"
+    },
+    {
+      "_id": "69350215a3724d6feaa986bb",
+      "listingId": "69350215a3724d6feaa986bb",
+      "sellerId": "69350097a3724d6feaa9869d",
+      "school": "MIT",
+      "title": "Leather Boots",
+      "description": "Brown leather ankle boots, size 7.5. Comfortable and stylish.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081602/swapit/listings/gjbj4qsxg6oigioj0z1f.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081619/swapit/listings/yzjygustiatsl29m0xqf.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 50,
+      "status": "Active",
+      "currentHighestBid": 62,
+      "createdAt": "2025-11-20T00:17:04.158Z",
+      "updatedAt": "2025-12-07T04:27:01.291Z"
+    },
+    {
+      "_id": "6935023aa3724d6feaa986bc",
+      "listingId": "6935023aa3724d6feaa986bc",
+      "sellerId": "69350097a3724d6feaa9869e",
+      "school": "MIT",
+      "title": "Silk Scarf",
+      "description": "Colorful silk scarf. Adds a pop of color to any outfit!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081639/swapit/listings/p9vsmnj12hlcnksotfch.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081656/swapit/listings/kssngnkp27z2a32vdrog.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "washed",
+      "minAsk": 18,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-29T14:44:26.497Z",
+      "updatedAt": "2025-12-07T04:27:38.157Z"
+    },
+    {
+      "_id": "69350268a3724d6feaa986bd",
+      "listingId": "69350268a3724d6feaa986bd",
+      "sellerId": "69350097a3724d6feaa9869a",
+      "school": "MIT",
+      "title": "Oversized Hoodie",
+      "description": "Grey oversized hoodie, size L. Super comfy and warm.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081680/swapit/listings/gd59vlisq4i1ohf2dkg4.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081701/swapit/listings/dx8zld8y4fsnnhabc0rk.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 28,
+      "status": "Active",
+      "currentHighestBid": 39,
+      "createdAt": "2025-11-08T16:38:57.379Z",
+      "updatedAt": "2025-12-07T04:28:24.237Z"
+    },
+    {
+      "_id": "6935028ca3724d6feaa986be",
+      "listingId": "6935028ca3724d6feaa986be",
+      "sellerId": "69350097a3724d6feaa9869b",
+      "school": "MIT",
+      "title": "Corduroy Pants",
+      "description": "Brown corduroy pants, size 30. Straight leg fit.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081722/swapit/listings/dwpmsrfvdvnujuqg6h0p.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081738/swapit/listings/qdpjyau6g6izpvcgg23j.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "washed",
+      "minAsk": 22,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-16T03:31:24.212Z",
+      "updatedAt": "2025-12-07T04:29:00.280Z"
+    },
+    {
+      "_id": "693502ada3724d6feaa986bf",
+      "listingId": "693502ada3724d6feaa986bf",
+      "sellerId": "69350097a3724d6feaa9869c",
+      "school": "MIT",
+      "title": "Winter Coat",
+      "description": "Black winter coat, size M. Warm and in excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081755/swapit/listings/ffxqfhhs8cgijeevnscm.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081771/swapit/listings/ohnj0dyx9vf8nkd0cibs.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 60,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-07T22:26:06.416Z",
+      "updatedAt": "2025-12-07T04:29:33.655Z"
+    },
+    {
+      "_id": "693502d0a3724d6feaa986c0",
+      "listingId": "693502d0a3724d6feaa986c0",
+      "sellerId": "69350097a3724d6feaa9869d",
+      "school": "MIT",
+      "title": "Maxi Dress",
+      "description": "Long flowing maxi dress, size M. Bohemian style.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081787/swapit/listings/uisv56ikfrk3rf7i7fgo.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081807/swapit/listings/fozbi0jdbc0jkan3flgj.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "washed",
+      "minAsk": 32,
+      "status": "Active",
+      "currentHighestBid": 42,
+      "createdAt": "2025-11-25T18:31:36.952Z",
+      "updatedAt": "2025-12-07T04:30:08.801Z"
+    },
+    {
+      "_id": "693502f2a3724d6feaa986c1",
+      "listingId": "693502f2a3724d6feaa986c1",
+      "sellerId": "69350097a3724d6feaa9869e",
+      "school": "MIT",
+      "title": "Running Shorts",
+      "description": "Nike running shorts, size S. Breathable and lightweight.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081825/swapit/listings/ukf0ux0xqxt2bulrsrim.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081840/swapit/listings/g4tyt3k4sdm5fnarumzc.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 10,
+      "status": "Active",
+      "currentHighestBid": 18,
+      "createdAt": "2025-11-24T01:59:55.067Z",
+      "updatedAt": "2025-12-07T04:30:42.262Z"
+    },
+    {
+      "_id": "6935031ca3724d6feaa986c2",
+      "listingId": "6935031ca3724d6feaa986c2",
+      "sellerId": "69350097a3724d6feaa9869a",
+      "school": "MIT",
+      "title": "Suit Jacket",
+      "description": "Navy blue suit jacket, size 38R. Perfect for interviews.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081861/swapit/listings/ft05d985i9l8prw2pljy.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081882/swapit/listings/mfmdkw6wdbfbgybloube.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 80,
+      "status": "Active",
+      "currentHighestBid": 95,
+      "createdAt": "2025-11-14T05:00:16.596Z",
+      "updatedAt": "2025-12-07T04:31:24.565Z"
+    },
+    {
+      "_id": "69350340a3724d6feaa986c3",
+      "listingId": "69350340a3724d6feaa986c3",
+      "sellerId": "69350097a3724d6feaa9869b",
+      "school": "MIT",
+      "title": "Saree Blouse",
+      "description": "Designer Saree Blouse. Gold and Red. Size Small.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081902/swapit/listings/gpo60bhppg6f4mjaznyk.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081919/swapit/listings/ykpqxoigcoucokp1eown.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 45,
+      "status": "Active",
+      "currentHighestBid": 55,
+      "createdAt": "2025-11-28T14:38:49.754Z",
+      "updatedAt": "2025-12-07T04:32:00.724Z"
+    },
+    {
+      "_id": "69350362a3724d6feaa986c4",
+      "listingId": "69350362a3724d6feaa986c4",
+      "sellerId": "69350097a3724d6feaa9869c",
+      "school": "MIT",
+      "title": "Party Skirt",
+      "description": "Sequin Party Skirt. Size Medium. Worn to one event.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081937/swapit/listings/uagu8qebiipusbunbae4.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081952/swapit/listings/lrxhazmm5gb83l4ui6yc.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 38,
+      "status": "Active",
+      "currentHighestBid": 44,
+      "createdAt": "2025-11-27T05:57:28.930Z",
+      "updatedAt": "2025-12-07T04:32:34.447Z"
+    },
+    {
+      "_id": "69350387a3724d6feaa986c5",
+      "listingId": "69350387a3724d6feaa986c5",
+      "sellerId": "69350097a3724d6feaa9869d",
+      "school": "MIT",
+      "title": "Sandals",
+      "description": "Leather Sandals. Size 8. Very comfortable.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081971/swapit/listings/ppq1itcjpcp2evl8yjej.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765081989/swapit/listings/zypgq3k18vqgk8pov8os.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 27,
+      "status": "Active",
+      "currentHighestBid": 32,
+      "createdAt": "2025-11-18T07:23:31.390Z",
+      "updatedAt": "2025-12-07T04:33:11.450Z"
+    },
+    {
+      "_id": "693503b6a3724d6feaa986c6",
+      "listingId": "693503b6a3724d6feaa986c6",
+      "sellerId": "69350097a3724d6feaa9869e",
+      "school": "MIT",
+      "title": "Beanie Hat",
+      "description": "Warm winter beanie hat. New with tags! Grey.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082016/swapit/listings/mmmo3kepvscqtx7tevkt.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082036/swapit/listings/dhld8x9byjcjoig7jra9.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": 29,
+      "createdAt": "2025-11-24T10:30:00.733Z",
+      "updatedAt": "2025-12-07T04:33:58.225Z"
+    },
+    {
+      "_id": "693503e7a3724d6feaa986c7",
+      "listingId": "693503e7a3724d6feaa986c7",
+      "sellerId": "69350099a3724d6feaa9869f",
+      "school": "Wellesley",
+      "title": "Striped Crop Top",
+      "description": "Cute Brandy Melville striped crop top. One size. Never worn!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082065/swapit/listings/utnsstjybzoijfqkpqmg.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082085/swapit/listings/f5g6n7wob6ywsnrpavhd.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": 40,
+      "createdAt": "2025-11-08T01:58:49.469Z",
+      "updatedAt": "2025-12-07T04:34:47.726Z"
+    },
+    {
+      "_id": "69350407a3724d6feaa986c8",
+      "listingId": "69350407a3724d6feaa986c8",
+      "sellerId": "69350099a3724d6feaa986a0",
+      "school": "Wellesley",
+      "title": "Black Skinny Jeans",
+      "description": "Classic black H&M skinny jeans, size 28. Worn a few times, washed.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082101/swapit/listings/ecznjwe2ccib7hptc5kj.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082117/swapit/listings/hrqt7jnfebfhiydoolrj.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "washed",
+      "minAsk": 25,
+      "status": "Active",
+      "currentHighestBid": 38,
+      "createdAt": "2025-11-25T00:46:51.231Z",
+      "updatedAt": "2025-12-07T04:35:19.602Z"
+    },
+    {
+      "_id": "69350433a3724d6feaa986c9",
+      "listingId": "69350433a3724d6feaa986c9",
+      "sellerId": "69350099a3724d6feaa986a1",
+      "school": "Wellesley",
+      "title": "Red Puffer Vest",
+      "description": "Columbia red puffer vest, size S. Perfect for fall! Pre-owned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082144/swapit/listings/jofqvzm71sc6vuzlvouc.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082161/swapit/listings/p4tgsonaksyowck0i8gm.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 35,
+      "status": "Active",
+      "currentHighestBid": 36,
+      "createdAt": "2025-11-26T22:38:48.564Z",
+      "updatedAt": "2025-12-07T04:36:03.033Z"
+    },
+    {
+      "_id": "6935045da3724d6feaa986ca",
+      "listingId": "6935045da3724d6feaa986ca",
+      "sellerId": "69350099a3724d6feaa986a2",
+      "school": "Wellesley",
+      "title": "Floral Sundress",
+      "description": "Adorable floral sundress from Forever 21, size M. Great for summer!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082179/swapit/listings/bfll3mgyw265zblkzrfg.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082203/swapit/listings/weqvwfxfsypuxzclnjna.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-02T17:30:34.976Z",
+      "updatedAt": "2025-12-07T04:36:45.541Z"
+    },
+    {
+      "_id": "69350489a3724d6feaa986cb",
+      "listingId": "69350489a3724d6feaa986cb",
+      "sellerId": "69350099a3724d6feaa986a3",
+      "school": "Wellesley",
+      "title": "Yoga Pants",
+      "description": "Lululemon yoga pants, size 6. Very comfy and in good condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082225/swapit/listings/rrc023xa4b55kja96yrx.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082248/swapit/listings/e0dmmn1u763f19ansaly.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 40,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-27T05:07:37.143Z",
+      "updatedAt": "2025-12-07T04:37:29.575Z"
+    },
+    {
+      "_id": "693504b0a3724d6feaa986cc",
+      "listingId": "693504b0a3724d6feaa986cc",
+      "sellerId": "69350099a3724d6feaa9869f",
+      "school": "Wellesley",
+      "title": "Navy Blazer",
+      "description": "Classic navy blue blazer, size 38R. Perfect for interviews or presentations.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082264/swapit/listings/v5w69erfonggbitq0cos.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082286/swapit/listings/rzt9udgwy2xbaatowumr.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 50,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-27T21:43:00.489Z",
+      "updatedAt": "2025-12-07T04:38:08.705Z"
+    },
+    {
+      "_id": "693504d5a3724d6feaa986cd",
+      "listingId": "693504d5a3724d6feaa986cd",
+      "sellerId": "69350099a3724d6feaa986a0",
+      "school": "Wellesley",
+      "title": "Kurti Top",
+      "description": "Beautiful cotton Kurti top, size M. Embroidered details, vibrant color.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082306/swapit/listings/xqfxohmpa0vvfrcwu77m.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082323/swapit/listings/kbvq45jklspnfmunp4qo.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-01T17:09:09.960Z",
+      "updatedAt": "2025-12-07T04:38:45.527Z"
+    },
+    {
+      "_id": "693504fba3724d6feaa986ce",
+      "listingId": "693504fba3724d6feaa986ce",
+      "sellerId": "69350099a3724d6feaa986a1",
+      "school": "Wellesley",
+      "title": "Sequin Mini Skirt",
+      "description": "Sparkly sequin mini skirt, size S. Perfect for parties! New with tags.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082342/swapit/listings/djui4ioseravsqkcftay.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082361/swapit/listings/tpuoznmfvfmcs8m9fbqi.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 35,
+      "status": "Active",
+      "currentHighestBid": 45,
+      "createdAt": "2025-12-01T16:07:39.353Z",
+      "updatedAt": "2025-12-07T04:39:23.489Z"
+    },
+    {
+      "_id": "69350525a3724d6feaa986cf",
+      "listingId": "69350525a3724d6feaa986cf",
+      "sellerId": "69350099a3724d6feaa986a2",
+      "school": "Wellesley",
+      "title": "Leather Ankle Boots",
+      "description": "Brown leather ankle boots, size 8. Worn once, great condition. Washed.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082383/swapit/listings/sm4jxecpbrgq7qj4a0l5.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082403/swapit/listings/zienlpmwzlbv5vgczhev.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "washed",
+      "minAsk": 60,
+      "status": "Active",
+      "currentHighestBid": 63,
+      "createdAt": "2025-11-29T13:37:24.623Z",
+      "updatedAt": "2025-12-07T04:40:05.609Z"
+    },
+    {
+      "_id": "69350548a3724d6feaa986d0",
+      "listingId": "69350548a3724d6feaa986d0",
+      "sellerId": "69350099a3724d6feaa986a3",
+      "school": "Wellesley",
+      "title": "Silk Scarf",
+      "description": "Vintage silk scarf with floral print. Adds a touch of elegance.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082421/swapit/listings/hu2rhscpksntie9ggk80.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082438/swapit/listings/qjt4lywdi0nc3rci9dw3.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 15,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-03T00:13:54.514Z",
+      "updatedAt": "2025-12-07T04:40:40.060Z"
+    },
+    {
+      "_id": "6935056fa3724d6feaa986d1",
+      "listingId": "6935056fa3724d6feaa986d1",
+      "sellerId": "69350099a3724d6feaa9869f",
+      "school": "Wellesley",
+      "title": "White Tee",
+      "description": "Basic white t-shirt, size M. Comfortable and versatile. Washed once.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082456/swapit/listings/mhsgc2ovw1m6c2w4cohg.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082478/swapit/listings/i7osssriklb3vvhg73z8.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 10,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-09T02:51:55.610Z",
+      "updatedAt": "2025-12-07T04:41:19.965Z"
+    },
+    {
+      "_id": "69350592a3724d6feaa986d2",
+      "listingId": "69350592a3724d6feaa986d2",
+      "sellerId": "69350099a3724d6feaa986a0",
+      "school": "Wellesley",
+      "title": "Corduroy Pants",
+      "description": "Brown corduroy pants, size 30. Great for fall and winter. Pre-owned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082493/swapit/listings/k2wbkzj4zyv9zuzzizh2.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082512/swapit/listings/arxj5z5nd85xlx35tcsj.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 25,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-03T06:23:03.466Z",
+      "updatedAt": "2025-12-07T04:41:54.334Z"
+    },
+    {
+      "_id": "693505b7a3724d6feaa986d3",
+      "listingId": "693505b7a3724d6feaa986d3",
+      "sellerId": "69350099a3724d6feaa986a1",
+      "school": "Wellesley",
+      "title": "Rain Jacket",
+      "description": "Yellow rain jacket, size S. Waterproof and lightweight. New with tags!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082530/swapit/listings/oifpks4kqc2q25azehwn.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082549/swapit/listings/zbcpsjyceslcuwp7qjsj.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 40,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-02T02:51:21.553Z",
+      "updatedAt": "2025-12-07T04:42:31.470Z"
+    },
+    {
+      "_id": "693505e0a3724d6feaa986d4",
+      "listingId": "693505e0a3724d6feaa986d4",
+      "sellerId": "69350099a3724d6feaa986a2",
+      "school": "Wellesley",
+      "title": "Black Cocktail Dress",
+      "description": "Elegant black cocktail dress, size 4. Perfect for a night out.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082570/swapit/listings/izbmxagokovqvfnsaekp.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082590/swapit/listings/bduuxzkoyqfpocrnamu3.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 55,
+      "status": "Active",
+      "currentHighestBid": 69,
+      "createdAt": "2025-11-14T08:58:27.069Z",
+      "updatedAt": "2025-12-07T04:43:12.534Z"
+    },
+    {
+      "_id": "693505ffa3724d6feaa986d5",
+      "listingId": "693505ffa3724d6feaa986d5",
+      "sellerId": "69350099a3724d6feaa986a3",
+      "school": "Wellesley",
+      "title": "Running Shorts",
+      "description": "Nike running shorts, size M. Lightweight and breathable. Excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082606/swapit/listings/botskn34wwgqmonflxwf.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082622/swapit/listings/mkn0pypnzn8z89zkpvs2.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": 25,
+      "createdAt": "2025-11-26T23:22:04.054Z",
+      "updatedAt": "2025-12-07T04:43:43.745Z"
+    },
+    {
+      "_id": "69350621a3724d6feaa986d6",
+      "listingId": "69350621a3724d6feaa986d6",
+      "sellerId": "69350099a3724d6feaa9869f",
+      "school": "Wellesley",
+      "title": "Suit Jacket",
+      "description": "Grey suit jacket, size 40R. Used for a few interviews. Washed.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082640/swapit/listings/bkkyufxsxomj8bzyc4dm.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082656/swapit/listings/kw3bji02wke5gtvtkduj.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "washed",
+      "minAsk": 65,
+      "status": "Active",
+      "currentHighestBid": 78,
+      "createdAt": "2025-11-30T11:20:34.568Z",
+      "updatedAt": "2025-12-07T04:44:17.913Z"
+    },
+    {
+      "_id": "69350645a3724d6feaa986d7",
+      "listingId": "69350645a3724d6feaa986d7",
+      "sellerId": "69350099a3724d6feaa986a0",
+      "school": "Wellesley",
+      "title": "Saree Blouse",
+      "description": "Gold saree blouse, size M. Never worn, beautiful embroidery. New with tags.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082677/swapit/listings/ytvkzzzww1nvxvszhsuq.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082692/swapit/listings/g565coq2tshnqjod0dw5.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 45,
+      "status": "Active",
+      "currentHighestBid": 48,
+      "createdAt": "2025-11-26T22:06:29.593Z",
+      "updatedAt": "2025-12-07T04:44:53.479Z"
+    },
+    {
+      "_id": "69350667a3724d6feaa986d8",
+      "listingId": "69350667a3724d6feaa986d8",
+      "sellerId": "69350099a3724d6feaa986a1",
+      "school": "Wellesley",
+      "title": "Prom Dress",
+      "description": "Long, flowing prom dress, size 6. Worn once, dry-cleaned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082711/swapit/listings/sati2a3fut5mag0yeidv.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082726/swapit/listings/a2qds847hn6wwxoqztzc.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "washed",
+      "minAsk": 75,
+      "status": "Active",
+      "currentHighestBid": 86,
+      "createdAt": "2025-12-07T01:45:55.437Z",
+      "updatedAt": "2025-12-07T04:45:27.752Z"
+    },
+    {
+      "_id": "69350694a3724d6feaa986d9",
+      "listingId": "69350694a3724d6feaa986d9",
+      "sellerId": "69350099a3724d6feaa986a2",
+      "school": "Wellesley",
+      "title": "Platform Sandals",
+      "description": "Black platform sandals, size 7. Comfortable and stylish. Pre-owned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082748/swapit/listings/ummo2ll9dehokrvzzklh.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082771/swapit/listings/poxbmkwi7mrzveoihnyu.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-04T17:57:25.882Z",
+      "updatedAt": "2025-12-07T04:46:12.664Z"
+    },
+    {
+      "_id": "693506afa3724d6feaa986da",
+      "listingId": "693506afa3724d6feaa986da",
+      "sellerId": "69350099a3724d6feaa986a3",
+      "school": "Wellesley",
+      "title": "Beaded Necklace",
+      "description": "Colorful beaded necklace. Adds a bohemian touch to any outfit.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082787/swapit/listings/ljzprn3ecckvksiszimj.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082798/swapit/listings/sfi0rikidvczrz8ayce5.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 12,
+      "status": "Active",
+      "currentHighestBid": 26,
+      "createdAt": "2025-11-12T14:08:07.296Z",
+      "updatedAt": "2025-12-07T04:46:39.851Z"
+    },
+    {
+      "_id": "693506e2a3724d6feaa986db",
+      "listingId": "693506e2a3724d6feaa986db",
+      "sellerId": "6935009ba3724d6feaa986a4",
+      "school": "Harvard",
+      "title": "Striped Crewneck Tee",
+      "description": "Classic H&M striped tee, size small. Washed and ready to wear! Great for layering.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082830/swapit/listings/j7dfpi7aksnqzuzbak3k.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082849/swapit/listings/wlcrp877mr6giavst6mm.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 12,
+      "status": "Active",
+      "currentHighestBid": 23,
+      "createdAt": "2025-11-15T18:49:40.377Z",
+      "updatedAt": "2025-12-07T04:47:30.964Z"
+    },
+    {
+      "_id": "69350706a3724d6feaa986dc",
+      "listingId": "69350706a3724d6feaa986dc",
+      "sellerId": "6935009ba3724d6feaa986a5",
+      "school": "Harvard",
+      "title": "Levi's 501 Jeans",
+      "description": "Levi's 501 jeans, size 32x30. Light wash, some fading. A versatile wardrobe staple.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082869/swapit/listings/djoewodvufehmfhlwdtg.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082884/swapit/listings/m0lwr6mgfsapvmbmzv3x.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 35,
+      "status": "Active",
+      "currentHighestBid": 46,
+      "createdAt": "2025-11-27T01:55:26.937Z",
+      "updatedAt": "2025-12-07T04:48:06.441Z"
+    },
+    {
+      "_id": "6935072ba3724d6feaa986dd",
+      "listingId": "6935072ba3724d6feaa986dd",
+      "sellerId": "6935009ba3724d6feaa986a6",
+      "school": "Harvard",
+      "title": "Puffer Vest",
+      "description": "Navy blue puffer vest, size M. Keeps you warm without being bulky.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082902/swapit/listings/hfwdkfh7063p0kvcoqe3.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082922/swapit/listings/in9a8v2evacxh0gcrup1.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 28,
+      "status": "Active",
+      "currentHighestBid": 35,
+      "createdAt": "2025-11-17T12:01:03.085Z",
+      "updatedAt": "2025-12-07T04:48:43.790Z"
+    },
+    {
+      "_id": "69350757a3724d6feaa986de",
+      "listingId": "69350757a3724d6feaa986de",
+      "sellerId": "6935009ba3724d6feaa986a7",
+      "school": "Harvard",
+      "title": "Floral Sundress",
+      "description": "Cute and breezy floral sundress, size S. Perfect for summer! Never worn.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082944/swapit/listings/wmajz6dj1z9jgyxv2vyb.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082965/swapit/listings/l9pjyze2rlfuzhmwjuzk.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 25,
+      "status": "Active",
+      "currentHighestBid": 34,
+      "createdAt": "2025-11-27T12:33:55.251Z",
+      "updatedAt": "2025-12-07T04:49:27.130Z"
+    },
+    {
+      "_id": "69350778a3724d6feaa986df",
+      "listingId": "69350778a3724d6feaa986df",
+      "sellerId": "6935009ba3724d6feaa986a8",
+      "school": "Harvard",
+      "title": "Yoga Leggings",
+      "description": "Black Lululemon Align leggings, size 6. Gently used, great condition for workouts.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082981/swapit/listings/pcbyeoudr7umptr7oeze.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765082998/swapit/listings/zezjqhpl1vw0vxycokl0.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 60,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-23T11:28:59.709Z",
+      "updatedAt": "2025-12-07T04:50:00.024Z"
+    },
+    {
+      "_id": "6935079da3724d6feaa986e0",
+      "listingId": "6935079da3724d6feaa986e0",
+      "sellerId": "6935009ba3724d6feaa986a4",
+      "school": "Harvard",
+      "title": "Prom Dress",
+      "description": "Elegant navy blue prom dress, size 4. Worn once, professionally cleaned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083018/swapit/listings/k8urlcytacfbrzpldaqw.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083035/swapit/listings/nqp2rewrlt9i8jeitwmw.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 75,
+      "status": "Active",
+      "currentHighestBid": 94,
+      "createdAt": "2025-11-29T17:16:17.678Z",
+      "updatedAt": "2025-12-07T04:50:37.401Z"
+    },
+    {
+      "_id": "693507c4a3724d6feaa986e1",
+      "listingId": "693507c4a3724d6feaa986e1",
+      "sellerId": "6935009ba3724d6feaa986a5",
+      "school": "Harvard",
+      "title": "Kurti Set",
+      "description": "Beautiful Indian kurti set with pants, size M. Worn once to a wedding. ",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083053/swapit/listings/cribytluozhwvhvao9tb.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083074/swapit/listings/crymwxrdrfulqmxcr1c1.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 50,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-24T03:12:15.630Z",
+      "updatedAt": "2025-12-07T04:51:16.269Z"
+    },
+    {
+      "_id": "693507e0a3724d6feaa986e2",
+      "listingId": "693507e0a3724d6feaa986e2",
+      "sellerId": "6935009ba3724d6feaa986a6",
+      "school": "Harvard",
+      "title": "Cocktail Dress",
+      "description": "Red cocktail dress, size 8. Perfect for a night out. Never worn!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083085/swapit/listings/em7arm4qyksv1rqcaiqa.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083102/swapit/listings/ppx1amraovsody6vdyev.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 40,
+      "status": "Active",
+      "currentHighestBid": 42,
+      "createdAt": "2025-12-03T02:18:15.677Z",
+      "updatedAt": "2025-12-07T04:51:44.581Z"
+    },
+    {
+      "_id": "6935080ba3724d6feaa986e3",
+      "listingId": "6935080ba3724d6feaa986e3",
+      "sellerId": "6935009ba3724d6feaa986a7",
+      "school": "Harvard",
+      "title": "Adidas Sneakers",
+      "description": "Adidas Stan Smith sneakers, size 9.5. White with green accents.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083124/swapit/listings/feml8g6rfhgfbrrqeozy.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083146/swapit/listings/sglc4xljkep8sfc1ep24.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 48,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-29T02:07:34.457Z",
+      "updatedAt": "2025-12-07T04:52:27.789Z"
+    },
+    {
+      "_id": "6935082da3724d6feaa986e4",
+      "listingId": "6935082da3724d6feaa986e4",
+      "sellerId": "6935009ba3724d6feaa986a8",
+      "school": "Harvard",
+      "title": "Silk Scarf",
+      "description": "Vintage silk scarf with a floral print. Adds a touch of elegance to any outfit.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083163/swapit/listings/hdqj1mni8zqx6walsqrf.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083179/swapit/listings/fax44swdtcglflpr4j9i.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 18,
+      "status": "Active",
+      "currentHighestBid": 27,
+      "createdAt": "2025-11-12T18:02:05.457Z",
+      "updatedAt": "2025-12-07T04:53:01.038Z"
+    },
+    {
+      "_id": "69350859a3724d6feaa986e5",
+      "listingId": "69350859a3724d6feaa986e5",
+      "sellerId": "6935009ba3724d6feaa986a4",
+      "school": "Harvard",
+      "title": "Oversized Sweater",
+      "description": "Cozy knit sweater, size L. Perfect for those chilly days. Washed and ready.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083204/swapit/listings/wlbhxrekewahmgzcy6ap.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083224/swapit/listings/yyj1f33haahdxpimqnfe.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-07T21:11:10.786Z",
+      "updatedAt": "2025-12-07T04:53:45.932Z"
+    },
+    {
+      "_id": "69350880a3724d6feaa986e6",
+      "listingId": "69350880a3724d6feaa986e6",
+      "sellerId": "6935009ba3724d6feaa986a5",
+      "school": "Harvard",
+      "title": "Corduroy Pants",
+      "description": "Brown corduroy pants, size 30x32. Classic and comfortable.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083241/swapit/listings/m8gvld377ahcbguk3qf2.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083263/swapit/listings/hnjq6vgp2tmtquzb3wj2.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-14T04:07:31.206Z",
+      "updatedAt": "2025-12-07T04:54:24.633Z"
+    },
+    {
+      "_id": "693508aea3724d6feaa986e7",
+      "listingId": "693508aea3724d6feaa986e7",
+      "sellerId": "6935009ba3724d6feaa986a6",
+      "school": "Harvard",
+      "title": "Windbreaker Jacket",
+      "description": "Lightweight black windbreaker jacket, size M. Perfect for running. New with tags",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083283/swapit/listings/ikglnjnosp6qjhftfclv.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083309/swapit/listings/kraaguygngdruaoiczpk.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 55,
+      "status": "Active",
+      "currentHighestBid": 67,
+      "createdAt": "2025-11-24T17:45:24.008Z",
+      "updatedAt": "2025-12-07T04:55:10.850Z"
+    },
+    {
+      "_id": "693508d3a3724d6feaa986e8",
+      "listingId": "693508d3a3724d6feaa986e8",
+      "sellerId": "6935009ba3724d6feaa986a7",
+      "school": "Harvard",
+      "title": "Little Black Dress",
+      "description": "Classic LBD, size 6. Versatile and stylish. Great condition",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083328/swapit/listings/mpwjg09ymmozh0zdd3pl.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083346/swapit/listings/c2qbkemsyeef4vltvpkb.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 38,
+      "status": "Active",
+      "currentHighestBid": 47,
+      "createdAt": "2025-12-02T17:35:59.471Z",
+      "updatedAt": "2025-12-07T04:55:47.589Z"
+    },
+    {
+      "_id": "693508f6a3724d6feaa986e9",
+      "listingId": "693508f6a3724d6feaa986e9",
+      "sellerId": "6935009ba3724d6feaa986a8",
+      "school": "Harvard",
+      "title": "Nike Shorts",
+      "description": "Black Nike running shorts, size M. Worn a few times, excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083363/swapit/listings/jpqz9cx80vqdfqvottiy.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083380/swapit/listings/mhbsbcjdiimirliktqoh.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 22,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-12T10:23:10.836Z",
+      "updatedAt": "2025-12-07T04:56:22.026Z"
+    },
+    {
+      "_id": "69350916a3724d6feaa986ea",
+      "listingId": "69350916a3724d6feaa986ea",
+      "sellerId": "6935009ba3724d6feaa986a4",
+      "school": "Harvard",
+      "title": "Suit Jacket",
+      "description": "Men's black suit jacket, size 40R. Perfect for interviews.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083397/swapit/listings/c1smwrc0j9ijlcnfyo9v.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083413/swapit/listings/srgvakgykattzpayocgh.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 65,
+      "status": "Active",
+      "currentHighestBid": 73,
+      "createdAt": "2025-11-10T19:37:18.212Z",
+      "updatedAt": "2025-12-07T04:56:54.880Z"
+    },
+    {
+      "_id": "69350942a3724d6feaa986eb",
+      "listingId": "69350942a3724d6feaa986eb",
+      "sellerId": "6935009ba3724d6feaa986a5",
+      "school": "Harvard",
+      "title": "Saree",
+      "description": "Beautiful silk saree with intricate detailing. New, never worn.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083436/swapit/listings/fe7qcrn5c8feu6r6njnz.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083456/swapit/listings/awyozexa6zca2gaxbkve.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 150,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-19T03:30:04.874Z",
+      "updatedAt": "2025-12-07T04:57:38.498Z"
+    },
+    {
+      "_id": "69350962a3724d6feaa986ec",
+      "listingId": "69350962a3724d6feaa986ec",
+      "sellerId": "6935009ba3724d6feaa986a6",
+      "school": "Harvard",
+      "title": "Graduation Gown",
+      "description": "Graduation gown, fits 5'6\"-5'9\". Worn once. Includes cap and tassel.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083473/swapit/listings/zxwocr6my6uu3ttlxktw.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083488/swapit/listings/lswyfv9zj5axqsyczyxm.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 42,
+      "status": "Active",
+      "currentHighestBid": 65,
+      "createdAt": "2025-12-04T10:08:16.203Z",
+      "updatedAt": "2025-12-07T04:58:10.140Z"
+    },
+    {
+      "_id": "69350989a3724d6feaa986ed",
+      "listingId": "69350989a3724d6feaa986ed",
+      "sellerId": "6935009ba3724d6feaa986a7",
+      "school": "Harvard",
+      "title": "Combat Boots",
+      "description": "Black combat boots, size 8. Stylish and durable. Pre-owned in good condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083508/swapit/listings/qieji20yd63mutztpe5j.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083527/swapit/listings/lhsih9qbmx6vipcarkyp.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 58,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-24T03:35:01.033Z",
+      "updatedAt": "2025-12-07T04:58:49.274Z"
+    },
+    {
+      "_id": "693509b3a3724d6feaa986ee",
+      "listingId": "693509b3a3724d6feaa986ee",
+      "sellerId": "6935009ba3724d6feaa986a8",
+      "school": "Harvard",
+      "title": "Beanie Hat",
+      "description": "Warm gray beanie hat. Great for winter. Washed and ready.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083549/swapit/listings/c6knv4zrr1p0pfx4bqyw.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083569/swapit/listings/a5ec4ty2irw4c0nmzj1k.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "washed",
+      "minAsk": 10,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-05T11:33:46.128Z",
+      "updatedAt": "2025-12-07T04:59:31.143Z"
+    },
+    {
+      "_id": "693509e0a3724d6feaa986ef",
+      "listingId": "693509e0a3724d6feaa986ef",
+      "sellerId": "6935009da3724d6feaa986a9",
+      "school": "Boston University",
+      "title": "Striped Crop Top",
+      "description": "Cute and comfy striped crop top, size S. Perfect for summer!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083592/swapit/listings/gmexxtb0memb0jixitvn.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083614/swapit/listings/rhs60esthbqcbo2xpski.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 15,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-03T07:47:28.298Z",
+      "updatedAt": "2025-12-07T05:00:16.453Z"
+    },
+    {
+      "_id": "69350a0aa3724d6feaa986f0",
+      "listingId": "69350a0aa3724d6feaa986f0",
+      "sellerId": "6935009da3724d6feaa986aa",
+      "school": "Boston University",
+      "title": "Levi's 501 Jeans",
+      "description": "Classic Levi's 501 jeans, size 30x32. A little worn, but lots of life left!",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083633/swapit/listings/xbambszk7sdfe2uyzocs.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083656/swapit/listings/kqozbut9jlu3ukoboykn.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": 31,
+      "createdAt": "2025-12-07T02:26:30.294Z",
+      "updatedAt": "2025-12-07T05:00:58.786Z"
+    },
+    {
+      "_id": "69350a2fa3724d6feaa986f1",
+      "listingId": "69350a2fa3724d6feaa986f1",
+      "sellerId": "6935009da3724d6feaa986ab",
+      "school": "Boston University",
+      "title": "Fleece Pullover",
+      "description": "Warm and cozy fleece pullover, size L. Perfect for cold days. Minor pilling.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083675/swapit/listings/uc1shl18qbzav2dwsy2z.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083694/swapit/listings/cfgbv6ahonkp64imhu6m.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 25,
+      "status": "Active",
+      "currentHighestBid": 26,
+      "createdAt": "2025-11-25T16:59:26.013Z",
+      "updatedAt": "2025-12-07T05:01:35.768Z"
+    },
+    {
+      "_id": "69350a66a3724d6feaa986f2",
+      "listingId": "69350a66a3724d6feaa986f2",
+      "sellerId": "6935009da3724d6feaa986ac",
+      "school": "Boston University",
+      "title": "Floral Sundress",
+      "description": "Flowy floral sundress, size M. Worn once. Perfect for brunch or a picnic.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083719/swapit/listings/eaitq21d7a6krct8gfmv.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083748/swapit/listings/i7p2mwzbvipnyqcwqzu0.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "washed",
+      "minAsk": 35,
+      "status": "Active",
+      "currentHighestBid": 44,
+      "createdAt": "2025-11-30T08:01:04.837Z",
+      "updatedAt": "2025-12-07T05:02:30.435Z"
+    },
+    {
+      "_id": "69350a89a3724d6feaa986f3",
+      "listingId": "69350a89a3724d6feaa986f3",
+      "sellerId": "6935009da3724d6feaa986ad",
+      "school": "Boston University",
+      "title": "Yoga Pants",
+      "description": "Black yoga pants, size S. In excellent condition. Worn a few times.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083766/swapit/listings/u9hhtzyecihuhfscf4is.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083783/swapit/listings/lhircvlh2vqbo7rqesp9.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "washed",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": 35,
+      "createdAt": "2025-11-21T22:11:22.971Z",
+      "updatedAt": "2025-12-07T05:03:05.079Z"
+    },
+    {
+      "_id": "69350aa9a3724d6feaa986f4",
+      "listingId": "69350aa9a3724d6feaa986f4",
+      "sellerId": "6935009da3724d6feaa986a9",
+      "school": "Boston University",
+      "title": "Prom Dress",
+      "description": "Elegant black prom dress, size 6. Worn once. Excellent condition, dry cleaned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083798/swapit/listings/xbb6q8hnuo5y0ggw9sir.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083816/swapit/listings/ripr2xxxjg3dbkymmbmz.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 75,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-04T18:40:16.899Z",
+      "updatedAt": "2025-12-07T05:03:37.930Z"
+    },
+    {
+      "_id": "69350ad1a3724d6feaa986f5",
+      "listingId": "69350ad1a3724d6feaa986f5",
+      "sellerId": "6935009da3724d6feaa986aa",
+      "school": "Boston University",
+      "title": "Silk Saree",
+      "description": "Beautiful silk saree with intricate embroidery. Gently used, excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083833/swapit/listings/ehnu5rckn96tq9rtqkqk.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083856/swapit/listings/z0osrcd3whchthh4mafa.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 90,
+      "status": "Active",
+      "currentHighestBid": 99,
+      "createdAt": "2025-11-15T08:38:01.593Z",
+      "updatedAt": "2025-12-07T05:04:17.836Z"
+    },
+    {
+      "_id": "69350af3a3724d6feaa986f6",
+      "listingId": "69350af3a3724d6feaa986f6",
+      "sellerId": "6935009da3724d6feaa986ab",
+      "school": "Boston University",
+      "title": "Cocktail Dress",
+      "description": "Stunning red cocktail dress, size 8. Perfect for a night out. New with tags.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083872/swapit/listings/ob2uiwznwpcjrgxbbivp.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083889/swapit/listings/pdrnxx2hssaulferywph.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 60,
+      "status": "Active",
+      "currentHighestBid": 62,
+      "createdAt": "2025-11-24T19:00:49.238Z",
+      "updatedAt": "2025-12-07T05:04:51.453Z"
+    },
+    {
+      "_id": "69350b1ca3724d6feaa986f7",
+      "listingId": "69350b1ca3724d6feaa986f7",
+      "sellerId": "6935009da3724d6feaa986ac",
+      "school": "Boston University",
+      "title": "Adidas Sneakers",
+      "description": "White Adidas sneakers, size 9.5. Worn a few times. Good condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083913/swapit/listings/znrshps44f1hzcwgyhng.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083931/swapit/listings/il8zmzfsffuy0x6yt6ek.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 40,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-28T01:27:17.043Z",
+      "updatedAt": "2025-12-07T05:05:32.735Z"
+    },
+    {
+      "_id": "69350b56a3724d6feaa986f8",
+      "listingId": "69350b56a3724d6feaa986f8",
+      "sellerId": "6935009da3724d6feaa986ad",
+      "school": "Boston University",
+      "title": "Designer Scarf",
+      "description": "Silk scarf, new with tags. Never worn. A beautiful accessory.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083960/swapit/listings/zdf1w9iuwphuvbkaxzct.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765083988/swapit/listings/zlnpeydqzerwyzykowdt.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 50,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-29T00:07:09.388Z",
+      "updatedAt": "2025-12-07T05:06:30.287Z"
+    },
+    {
+      "_id": "69350b7fa3724d6feaa986f9",
+      "listingId": "69350b7fa3724d6feaa986f9",
+      "sellerId": "6935009da3724d6feaa986a9",
+      "school": "Boston University",
+      "title": "Oversized T-Shirt",
+      "description": "Comfortable oversized t-shirt, size L. Great for lounging. Washed and ready to wear.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084009/swapit/listings/knvtfqzbygzkjochiori.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084029/swapit/listings/y3cxcfs1whsvsspc88qr.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 12,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-26T19:54:31.097Z",
+      "updatedAt": "2025-12-07T05:07:11.067Z"
+    },
+    {
+      "_id": "69350ba4a3724d6feaa986fa",
+      "listingId": "69350ba4a3724d6feaa986fa",
+      "sellerId": "6935009da3724d6feaa986aa",
+      "school": "Boston University",
+      "title": "Corduroy Pants",
+      "description": "Brown corduroy pants, size 32x30. Stylish and durable. Excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084051/swapit/listings/dtcqsph4vmj0ax6etstw.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084067/swapit/listings/srqinyb1qyo9mj6a0bik.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 38,
+      "status": "Active",
+      "currentHighestBid": 45,
+      "createdAt": "2025-11-13T01:48:03.366Z",
+      "updatedAt": "2025-12-07T05:07:48.924Z"
+    },
+    {
+      "_id": "69350bcaa3724d6feaa986fb",
+      "listingId": "69350bcaa3724d6feaa986fb",
+      "sellerId": "6935009da3724d6feaa986ab",
+      "school": "Boston University",
+      "title": "Winter Parka",
+      "description": "Heavy-duty winter parka, size M. Keeps you warm in the coldest weather.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084086/swapit/listings/s4jaoc57phep41fivla3.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084104/swapit/listings/ntlgrcmnzktgidszqdpg.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 65,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-09T08:29:15.437Z",
+      "updatedAt": "2025-12-07T05:08:26.764Z"
+    },
+    {
+      "_id": "69350beda3724d6feaa986fc",
+      "listingId": "69350beda3724d6feaa986fc",
+      "sellerId": "6935009da3724d6feaa986ac",
+      "school": "Boston University",
+      "title": "Little Black Dress",
+      "description": "Classic little black dress, size 4. Timeless and versatile. Worn once.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084121/swapit/listings/xsjt9xdjf02wpwkhnrl1.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084139/swapit/listings/idajetlxwle51vuahbw8.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 55,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-19T15:08:13.686Z",
+      "updatedAt": "2025-12-07T05:09:01.421Z"
+    },
+    {
+      "_id": "69350c13a3724d6feaa986fd",
+      "listingId": "69350c13a3724d6feaa986fd",
+      "sellerId": "6935009da3724d6feaa986ad",
+      "school": "Boston University",
+      "title": "Running Shorts",
+      "description": "Nike running shorts, size M. Lightweight and breathable. Perfect for workouts.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084160/swapit/listings/l4hevjmjbcbu5cxdzx4o.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084177/swapit/listings/t3ygmp1qmgv7orcltfmq.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "washed",
+      "minAsk": 18,
+      "status": "Active",
+      "currentHighestBid": 37,
+      "createdAt": "2025-12-01T20:18:14.659Z",
+      "updatedAt": "2025-12-07T05:09:39.343Z"
+    },
+    {
+      "_id": "69350c32a3724d6feaa986fe",
+      "listingId": "69350c32a3724d6feaa986fe",
+      "sellerId": "6935009da3724d6feaa986a9",
+      "school": "Boston University",
+      "title": "Suit Jacket",
+      "description": "Navy blue suit jacket, size 40R. Worn once for an interview. Excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084194/swapit/listings/jqzslrkbd3hub8ci46t7.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084208/swapit/listings/s1qsiztstcoya19eho7x.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 80,
+      "status": "Active",
+      "currentHighestBid": 94,
+      "createdAt": "2025-11-25T22:44:31.398Z",
+      "updatedAt": "2025-12-07T05:10:10.334Z"
+    },
+    {
+      "_id": "69350c60a3724d6feaa986ff",
+      "listingId": "69350c60a3724d6feaa986ff",
+      "sellerId": "6935009da3724d6feaa986aa",
+      "school": "Boston University",
+      "title": "Kurti Set",
+      "description": "Beautiful Kurti with matching pants, size M. Traditional Indian attire.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084232/swapit/listings/clmogwbquhyevnovdqsh.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084254/swapit/listings/val6p7gglut49y8dxcbf.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 70,
+      "status": "Active",
+      "currentHighestBid": 75,
+      "createdAt": "2025-11-29T02:20:51.906Z",
+      "updatedAt": "2025-12-07T05:10:56.176Z"
+    },
+    {
+      "_id": "69350c7ea3724d6feaa98700",
+      "listingId": "69350c7ea3724d6feaa98700",
+      "sellerId": "6935009da3724d6feaa986ab",
+      "school": "Boston University",
+      "title": "Party Skirt",
+      "description": "Sequin party skirt, size S. Perfect for a celebration. Worn once.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084269/swapit/listings/ctr6j9cuekmvxkdekbfx.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084284/swapit/listings/vegavapyzbpz0fs97dzd.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 48,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-01T13:53:45.204Z",
+      "updatedAt": "2025-12-07T05:11:26.001Z"
+    },
+    {
+      "_id": "69350ca1a3724d6feaa98701",
+      "listingId": "69350ca1a3724d6feaa98701",
+      "sellerId": "6935009da3724d6feaa986ac",
+      "school": "Boston University",
+      "title": "Leather Boots",
+      "description": "Brown leather boots, size 8.5. Stylish and comfortable. Gently used.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084301/swapit/listings/wo31fydlyor8qvboffqv.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084320/swapit/listings/ceqcftpds9plmjmikt9r.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 70,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-21T18:17:10.350Z",
+      "updatedAt": "2025-12-07T05:12:01.641Z"
+    },
+    {
+      "_id": "69350cc7a3724d6feaa98702",
+      "listingId": "69350cc7a3724d6feaa98702",
+      "sellerId": "6935009da3724d6feaa986ad",
+      "school": "Boston University",
+      "title": "Beanie Hat",
+      "description": "Warm beanie hat, new with tags. Perfect for winter weather.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084336/swapit/listings/zyem6x7npofhtosu332c.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084357/swapit/listings/wpdzdeui0ewuieu79pg6.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 10,
+      "status": "Active",
+      "currentHighestBid": 17,
+      "createdAt": "2025-12-02T15:15:39.849Z",
+      "updatedAt": "2025-12-07T05:12:39.500Z"
+    },
+    {
+      "_id": "69350cf6a3724d6feaa98703",
+      "listingId": "69350cf6a3724d6feaa98703",
+      "sellerId": "6935009fa3724d6feaa986ae",
+      "school": "Northeastern",
+      "title": "Striped Cotton Tee",
+      "description": "Classic striped tee, size S. Super soft and comfortable, washed once.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084388/swapit/listings/kkiphkrgicshijw576jg.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084405/swapit/listings/eabnwu8ay8reywukrq3e.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 12,
+      "status": "Active",
+      "currentHighestBid": 24,
+      "createdAt": "2025-11-21T08:20:46.351Z",
+      "updatedAt": "2025-12-07T05:13:26.850Z"
+    },
+    {
+      "_id": "69350d19a3724d6feaa98704",
+      "listingId": "69350d19a3724d6feaa98704",
+      "sellerId": "6935009fa3724d6feaa986af",
+      "school": "Northeastern",
+      "title": "Black Skinny Jeans",
+      "description": "Forever 21 black skinny jeans, size 26. Worn a few times, great condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084423/swapit/listings/rasluocz9ls6cptxll4c.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084439/swapit/listings/y2wba4ooy6szx12r6zgn.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 20,
+      "status": "Active",
+      "currentHighestBid": 31,
+      "createdAt": "2025-11-21T14:14:22.207Z",
+      "updatedAt": "2025-12-07T05:14:01.259Z"
+    },
+    {
+      "_id": "69350d41a3724d6feaa98705",
+      "listingId": "69350d41a3724d6feaa98705",
+      "sellerId": "6935009fa3724d6feaa986b0",
+      "school": "Northeastern",
+      "title": "Rain Jacket",
+      "description": "North Face rain jacket, size M. Waterproof and breathable. Lightly used.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084464/swapit/listings/c1syd04fwkruhf7jkt5c.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084479/swapit/listings/xfzhohiqoahvqucqg7xc.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 65,
+      "status": "Active",
+      "currentHighestBid": 77,
+      "createdAt": "2025-11-25T11:38:46.175Z",
+      "updatedAt": "2025-12-07T05:14:41.692Z"
+    },
+    {
+      "_id": "69350d71a3724d6feaa98706",
+      "listingId": "69350d71a3724d6feaa98706",
+      "sellerId": "6935009fa3724d6feaa986b1",
+      "school": "Northeastern",
+      "title": "Floral Sundress",
+      "description": "Cute floral sundress, size S. Perfect for summer! Never worn, with tags.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084508/swapit/listings/frvhwhfldjq1gb9hh9np.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084527/swapit/listings/wen7zevt9dpbp9vfwyqo.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-12-03T05:10:38.987Z",
+      "updatedAt": "2025-12-07T05:15:29.106Z"
+    },
+    {
+      "_id": "69350d99a3724d6feaa98707",
+      "listingId": "69350d99a3724d6feaa98707",
+      "sellerId": "6935009fa3724d6feaa986b2",
+      "school": "Northeastern",
+      "title": "Running Shorts",
+      "description": "Nike running shorts, size M. Breathable fabric, excellent condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084551/swapit/listings/orsgkh98oxmhccumd7l5.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084568/swapit/listings/leleu7ydbsigefguogtn.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "washed",
+      "minAsk": 25,
+      "status": "Active",
+      "currentHighestBid": 35,
+      "createdAt": "2025-12-04T19:13:35.983Z",
+      "updatedAt": "2025-12-07T05:16:09.984Z"
+    },
+    {
+      "_id": "69350dbea3724d6feaa98708",
+      "listingId": "69350dbea3724d6feaa98708",
+      "sellerId": "6935009fa3724d6feaa986ae",
+      "school": "Northeastern",
+      "title": "Prom Dress",
+      "description": "Long, elegant prom dress, size 4. Worn once, dry cleaned.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084587/swapit/listings/k7utxkujcjyxmleshsdg.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084605/swapit/listings/qxw7c0nxrmqp3tsfl3if.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 75,
+      "status": "Active",
+      "currentHighestBid": 95,
+      "createdAt": "2025-11-18T20:09:55.877Z",
+      "updatedAt": "2025-12-07T05:16:46.777Z"
+    },
+    {
+      "_id": "69350df3a3724d6feaa98709",
+      "listingId": "69350df3a3724d6feaa98709",
+      "sellerId": "6935009fa3724d6feaa986af",
+      "school": "Northeastern",
+      "title": "Kurti Top",
+      "description": "Indian kurti top, size M. Beautiful embroidery, great for casual wear.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084632/swapit/listings/lnieflryn3mpanriok0f.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084658/swapit/listings/yqlu8gsl9813iq0vzldx.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 35,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-17T18:19:06.722Z",
+      "updatedAt": "2025-12-07T05:17:39.688Z"
+    },
+    {
+      "_id": "69350e18a3724d6feaa9870a",
+      "listingId": "69350e18a3724d6feaa9870a",
+      "sellerId": "6935009fa3724d6feaa986b0",
+      "school": "Northeastern",
+      "title": "Cocktail Dress",
+      "description": "Little black cocktail dress, size 6. Perfect for parties! Gently used.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084677/swapit/listings/mfhbctxhga2axbgrous2.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084695/swapit/listings/ehowhblaojvhub3bwobi.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 40,
+      "status": "Active",
+      "currentHighestBid": 52,
+      "createdAt": "2025-12-01T21:40:54.284Z",
+      "updatedAt": "2025-12-07T05:18:16.571Z"
+    },
+    {
+      "_id": "69350e40a3724d6feaa9870b",
+      "listingId": "69350e40a3724d6feaa9870b",
+      "sellerId": "6935009fa3724d6feaa986b1",
+      "school": "Northeastern",
+      "title": "Leather Boots",
+      "description": "Brown leather ankle boots, size 7. Comfortable and stylish.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084713/swapit/listings/r0wcxwlfegmltxdcgzan.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084734/swapit/listings/q8oc3aupqfelyolt3qbl.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 50,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-19T11:43:04.302Z",
+      "updatedAt": "2025-12-07T05:18:56.261Z"
+    },
+    {
+      "_id": "69350e6aa3724d6feaa9870c",
+      "listingId": "69350e6aa3724d6feaa9870c",
+      "sellerId": "6935009fa3724d6feaa986b2",
+      "school": "Northeastern",
+      "title": "Pearl Necklace",
+      "description": "Elegant pearl necklace, never worn. Perfect for special occasions.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084753/swapit/listings/iajvyznpcxhccr3g6mf7.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084777/swapit/listings/sll8uoekp0qiwtsix9z1.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 28,
+      "status": "Active",
+      "currentHighestBid": 42,
+      "createdAt": "2025-12-01T16:38:21.605Z",
+      "updatedAt": "2025-12-07T05:19:38.773Z"
+    },
+    {
+      "_id": "69350e96a3724d6feaa9870d",
+      "listingId": "69350e96a3724d6feaa9870d",
+      "sellerId": "6935009fa3724d6feaa986ae",
+      "school": "Northeastern",
+      "title": "Oversized Flannel",
+      "description": "Cozy oversized flannel shirt, size L. Great for layering, gently washed.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084799/swapit/listings/zgsrpxqtvbtlnsw070wa.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084820/swapit/listings/mfaumh66wevdgeqz4pzp.png"
+      ],
+      "tags": [
+        "Tops"
+      ],
+      "condition": "washed",
+      "minAsk": 22,
+      "status": "Active",
+      "currentHighestBid": 33,
+      "createdAt": "2025-12-05T07:19:40.087Z",
+      "updatedAt": "2025-12-07T05:20:22.042Z"
+    },
+    {
+      "_id": "69350eb8a3724d6feaa9870e",
+      "listingId": "69350eb8a3724d6feaa9870e",
+      "sellerId": "6935009fa3724d6feaa986af",
+      "school": "Northeastern",
+      "title": "Corduroy Pants",
+      "description": "Vintage corduroy pants, size 30. Brown color, slightly worn.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084838/swapit/listings/ici1nhgzqli9qfg10wxv.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084854/swapit/listings/rfmw7pgqua32qzj7o052.png"
+      ],
+      "tags": [
+        "Bottoms"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 30,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-20T13:08:02.299Z",
+      "updatedAt": "2025-12-07T05:20:56.505Z"
+    },
+    {
+      "_id": "69350edba3724d6feaa9870f",
+      "listingId": "69350edba3724d6feaa9870f",
+      "sellerId": "6935009fa3724d6feaa986b0",
+      "school": "Northeastern",
+      "title": "Winter Coat",
+      "description": "Warm winter coat with hood, size S. Perfect for cold days.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084872/swapit/listings/vcwrfbbbwh2thaude8ad.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084889/swapit/listings/krxf5io0xtlk2qmpayll.png"
+      ],
+      "tags": [
+        "Outerwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 85,
+      "status": "Active",
+      "currentHighestBid": 91,
+      "createdAt": "2025-11-09T17:52:32.633Z",
+      "updatedAt": "2025-12-07T05:21:31.238Z"
+    },
+    {
+      "_id": "69350f01a3724d6feaa98710",
+      "listingId": "69350f01a3724d6feaa98710",
+      "sellerId": "6935009fa3724d6feaa986b1",
+      "school": "Northeastern",
+      "title": "Maxi Dress",
+      "description": "Long flowy maxi dress, size M. Comfortable and stylish for summer.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084911/swapit/listings/yshje86asvcsihlpccle.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084927/swapit/listings/eddjkjos14mhfcqmvjwa.png"
+      ],
+      "tags": [
+        "Dresses"
+      ],
+      "condition": "washed",
+      "minAsk": 38,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-18T01:43:22.154Z",
+      "updatedAt": "2025-12-07T05:22:09.116Z"
+    },
+    {
+      "_id": "69350f1da3724d6feaa98711",
+      "listingId": "69350f1da3724d6feaa98711",
+      "sellerId": "6935009fa3724d6feaa986b2",
+      "school": "Northeastern",
+      "title": "Yoga Pants",
+      "description": "Lululemon yoga pants, size 4. High-waisted and very comfortable.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084942/swapit/listings/i5z0vos03sxwunfksjzh.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084955/swapit/listings/fxyahiavze50x66mtwl7.png"
+      ],
+      "tags": [
+        "Activewear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 45,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-29T13:22:25.950Z",
+      "updatedAt": "2025-12-07T05:22:37.372Z"
+    },
+    {
+      "_id": "69350f3fa3724d6feaa98712",
+      "listingId": "69350f3fa3724d6feaa98712",
+      "sellerId": "6935009fa3724d6feaa986ae",
+      "school": "Northeastern",
+      "title": "Evening Gown",
+      "description": "Stunning evening gown, size 8. Worn once for a gala, perfect condition.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084973/swapit/listings/soc0bivsxzxmwhweh7jz.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765084990/swapit/listings/mx3zp5jguwikdliy4nif.png"
+      ],
+      "tags": [
+        "Formalwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 120,
+      "status": "Active",
+      "currentHighestBid": 125,
+      "createdAt": "2025-11-19T14:22:37.617Z",
+      "updatedAt": "2025-12-07T05:23:11.676Z"
+    },
+    {
+      "_id": "69350f65a3724d6feaa98713",
+      "listingId": "69350f65a3724d6feaa98713",
+      "sellerId": "6935009fa3724d6feaa986af",
+      "school": "Northeastern",
+      "title": "Saree Blouse",
+      "description": "Beautiful silk saree blouse, size 36. Never worn, brand new with tags.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085013/swapit/listings/msy43x3meoh34mllgvtt.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085027/swapit/listings/ucdrfccmpnzgqie3t0mt.png"
+      ],
+      "tags": [
+        "Ethnicwear"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 55,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-11T02:46:52.508Z",
+      "updatedAt": "2025-12-07T05:23:49.238Z"
+    },
+    {
+      "_id": "69350f87a3724d6feaa98714",
+      "listingId": "69350f87a3724d6feaa98714",
+      "sellerId": "6935009fa3724d6feaa986b0",
+      "school": "Northeastern",
+      "title": "Party Skirt",
+      "description": "Sequin party skirt, size S. Great for New Year's or special events.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085044/swapit/listings/soccvutzrhp7asieaho1.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085061/swapit/listings/nqunn9gzrgwgmdideqqt.png"
+      ],
+      "tags": [
+        "Occasionwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 32,
+      "status": "Active",
+      "currentHighestBid": 47,
+      "createdAt": "2025-11-28T01:51:08.367Z",
+      "updatedAt": "2025-12-07T05:24:23.307Z"
+    },
+    {
+      "_id": "69350fa9a3724d6feaa98715",
+      "listingId": "69350fa9a3724d6feaa98715",
+      "sellerId": "6935009fa3724d6feaa986b1",
+      "school": "Northeastern",
+      "title": "Sneakers",
+      "description": "Adidas sneakers, size 9. Comfortable and stylish for everyday wear.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085076/swapit/listings/ehcn7nxmuzs6gbe03hkx.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085095/swapit/listings/utauqwcujew1xtzsnl9b.png"
+      ],
+      "tags": [
+        "Footwear"
+      ],
+      "condition": "pre_owned",
+      "minAsk": 48,
+      "status": "Active",
+      "currentHighestBid": null,
+      "createdAt": "2025-11-23T17:02:53.035Z",
+      "updatedAt": "2025-12-07T05:24:57.402Z"
+    },
+    {
+      "_id": "69350fcda3724d6feaa98716",
+      "listingId": "69350fcda3724d6feaa98716",
+      "sellerId": "6935009fa3724d6feaa986b2",
+      "school": "Northeastern",
+      "title": "Silk Scarf",
+      "description": "Beautiful silk scarf, never used with original tag.",
+      "photos": [
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085113/swapit/listings/spwjdm98pj6tisvmhzjb.png",
+        "https://res.cloudinary.com/dsqvdvmo3/image/upload/v1765085131/swapit/listings/unn0nxmcqxhtccpwbe2g.png"
+      ],
+      "tags": [
+        "Accessories"
+      ],
+      "condition": "new_with_tags",
+      "minAsk": 33,
+      "status": "Active",
+      "currentHighestBid": 52,
+      "createdAt": "2025-12-05T07:28:20.338Z",
+      "updatedAt": "2025-12-07T05:25:33.356Z"
+    }
+  ],
+  "bids": [
+    {
+      "_id": "69350fcda3724d6feaa98717",
+      "bidId": "69350fcda3724d6feaa98717",
+      "listingId": "693500d1a3724d6feaa986b3",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 15,
+      "timestamp": "2025-12-06T22:42:07.275Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98718",
+      "bidId": "69350fcda3724d6feaa98718",
+      "listingId": "693500d1a3724d6feaa986b3",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 18,
+      "timestamp": "2025-12-02T03:58:37.697Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98719",
+      "bidId": "69350fcda3724d6feaa98719",
+      "listingId": "693500d1a3724d6feaa986b3",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 20,
+      "timestamp": "2025-12-03T08:22:57.669Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9871a",
+      "bidId": "69350fcda3724d6feaa9871a",
+      "listingId": "693500efa3724d6feaa986b4",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 24,
+      "timestamp": "2025-12-04T21:23:48.215Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9871b",
+      "bidId": "69350fcda3724d6feaa9871b",
+      "listingId": "693500efa3724d6feaa986b4",
+      "bidder": "69350097a3724d6feaa9869d",
+      "amount": 27,
+      "timestamp": "2025-12-06T03:54:49.462Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9871c",
+      "bidId": "69350fcda3724d6feaa9871c",
+      "listingId": "69350149a3724d6feaa986b6",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 35,
+      "timestamp": "2025-12-03T00:56:08.864Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9871d",
+      "bidId": "69350fcda3724d6feaa9871d",
+      "listingId": "69350149a3724d6feaa986b6",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 43,
+      "timestamp": "2025-12-01T00:59:11.226Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9871e",
+      "bidId": "69350fcda3724d6feaa9871e",
+      "listingId": "69350149a3724d6feaa986b6",
+      "bidder": "69350097a3724d6feaa9869a",
+      "amount": 49,
+      "timestamp": "2025-12-01T08:50:25.917Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9871f",
+      "bidId": "69350fcda3724d6feaa9871f",
+      "listingId": "6935019ba3724d6feaa986b8",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 82,
+      "timestamp": "2025-12-05T02:28:13.148Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98720",
+      "bidId": "69350fcda3724d6feaa98720",
+      "listingId": "6935019ba3724d6feaa986b8",
+      "bidder": "69350097a3724d6feaa9869d",
+      "amount": 88,
+      "timestamp": "2025-12-02T02:08:42.772Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98721",
+      "bidId": "69350fcda3724d6feaa98721",
+      "listingId": "69350215a3724d6feaa986bb",
+      "bidder": "69350097a3724d6feaa9869a",
+      "amount": 58,
+      "timestamp": "2025-12-04T12:45:16.706Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98722",
+      "bidId": "69350fcda3724d6feaa98722",
+      "listingId": "69350215a3724d6feaa986bb",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 62,
+      "timestamp": "2025-12-02T15:51:04.993Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98723",
+      "bidId": "69350fcda3724d6feaa98723",
+      "listingId": "69350268a3724d6feaa986bd",
+      "bidder": "69350097a3724d6feaa9869b",
+      "amount": 33,
+      "timestamp": "2025-12-04T05:07:55.599Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98724",
+      "bidId": "69350fcda3724d6feaa98724",
+      "listingId": "69350268a3724d6feaa986bd",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 38,
+      "timestamp": "2025-12-06T10:25:51.550Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98725",
+      "bidId": "69350fcda3724d6feaa98725",
+      "listingId": "69350268a3724d6feaa986bd",
+      "bidder": "69350097a3724d6feaa9869b",
+      "amount": 39,
+      "timestamp": "2025-11-30T17:50:33.724Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98726",
+      "bidId": "69350fcda3724d6feaa98726",
+      "listingId": "693502d0a3724d6feaa986c0",
+      "bidder": "69350097a3724d6feaa9869a",
+      "amount": 38,
+      "timestamp": "2025-12-06T13:05:59.439Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98727",
+      "bidId": "69350fcda3724d6feaa98727",
+      "listingId": "693502d0a3724d6feaa986c0",
+      "bidder": "69350097a3724d6feaa9869b",
+      "amount": 42,
+      "timestamp": "2025-12-02T00:32:58.088Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98728",
+      "bidId": "69350fcda3724d6feaa98728",
+      "listingId": "693502f2a3724d6feaa986c1",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 13,
+      "timestamp": "2025-12-02T12:06:12.248Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98729",
+      "bidId": "69350fcda3724d6feaa98729",
+      "listingId": "693502f2a3724d6feaa986c1",
+      "bidder": "69350097a3724d6feaa9869a",
+      "amount": 18,
+      "timestamp": "2025-12-03T09:56:45.366Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9872a",
+      "bidId": "69350fcda3724d6feaa9872a",
+      "listingId": "6935031ca3724d6feaa986c2",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 89,
+      "timestamp": "2025-12-01T20:57:33.096Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9872b",
+      "bidId": "69350fcda3724d6feaa9872b",
+      "listingId": "6935031ca3724d6feaa986c2",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 90,
+      "timestamp": "2025-11-30T16:48:37.936Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9872c",
+      "bidId": "69350fcda3724d6feaa9872c",
+      "listingId": "6935031ca3724d6feaa986c2",
+      "bidder": "69350097a3724d6feaa9869d",
+      "amount": 95,
+      "timestamp": "2025-12-05T16:09:46.461Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9872d",
+      "bidId": "69350fcda3724d6feaa9872d",
+      "listingId": "69350340a3724d6feaa986c3",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 55,
+      "timestamp": "2025-12-04T03:49:19.341Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9872e",
+      "bidId": "69350fcda3724d6feaa9872e",
+      "listingId": "69350362a3724d6feaa986c4",
+      "bidder": "69350097a3724d6feaa9869d",
+      "amount": 39,
+      "timestamp": "2025-12-03T08:09:20.821Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9872f",
+      "bidId": "69350fcda3724d6feaa9872f",
+      "listingId": "69350362a3724d6feaa986c4",
+      "bidder": "69350097a3724d6feaa9869e",
+      "amount": 43,
+      "timestamp": "2025-12-01T06:09:07.505Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98730",
+      "bidId": "69350fcda3724d6feaa98730",
+      "listingId": "69350362a3724d6feaa986c4",
+      "bidder": "69350097a3724d6feaa9869d",
+      "amount": 44,
+      "timestamp": "2025-12-04T05:53:47.298Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98731",
+      "bidId": "69350fcda3724d6feaa98731",
+      "listingId": "69350387a3724d6feaa986c5",
+      "bidder": "69350097a3724d6feaa9869c",
+      "amount": 32,
+      "timestamp": "2025-12-03T12:54:08.123Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98732",
+      "bidId": "69350fcda3724d6feaa98732",
+      "listingId": "693503b6a3724d6feaa986c6",
+      "bidder": "69350097a3724d6feaa9869d",
+      "amount": 29,
+      "timestamp": "2025-12-06T08:58:04.631Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98733",
+      "bidId": "69350fcda3724d6feaa98733",
+      "listingId": "693503e7a3724d6feaa986c7",
+      "bidder": "69350099a3724d6feaa986a2",
+      "amount": 28,
+      "timestamp": "2025-12-02T13:38:59.323Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98734",
+      "bidId": "69350fcda3724d6feaa98734",
+      "listingId": "693503e7a3724d6feaa986c7",
+      "bidder": "69350099a3724d6feaa986a3",
+      "amount": 38,
+      "timestamp": "2025-12-05T17:45:26.471Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98735",
+      "bidId": "69350fcda3724d6feaa98735",
+      "listingId": "693503e7a3724d6feaa986c7",
+      "bidder": "69350099a3724d6feaa986a2",
+      "amount": 40,
+      "timestamp": "2025-12-02T12:08:02.292Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98736",
+      "bidId": "69350fcda3724d6feaa98736",
+      "listingId": "69350407a3724d6feaa986c8",
+      "bidder": "69350099a3724d6feaa986a2",
+      "amount": 32,
+      "timestamp": "2025-12-02T15:39:38.391Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98737",
+      "bidId": "69350fcda3724d6feaa98737",
+      "listingId": "69350407a3724d6feaa986c8",
+      "bidder": "69350099a3724d6feaa986a2",
+      "amount": 35,
+      "timestamp": "2025-11-30T13:35:22.345Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98738",
+      "bidId": "69350fcda3724d6feaa98738",
+      "listingId": "69350407a3724d6feaa986c8",
+      "bidder": "69350099a3724d6feaa986a1",
+      "amount": 38,
+      "timestamp": "2025-12-04T10:10:15.970Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98739",
+      "bidId": "69350fcda3724d6feaa98739",
+      "listingId": "69350433a3724d6feaa986c9",
+      "bidder": "69350099a3724d6feaa986a0",
+      "amount": 36,
+      "timestamp": "2025-12-01T08:37:47.059Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9873a",
+      "bidId": "69350fcda3724d6feaa9873a",
+      "listingId": "693504fba3724d6feaa986ce",
+      "bidder": "69350099a3724d6feaa986a3",
+      "amount": 37,
+      "timestamp": "2025-12-03T20:22:40.830Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9873b",
+      "bidId": "69350fcda3724d6feaa9873b",
+      "listingId": "693504fba3724d6feaa986ce",
+      "bidder": "69350099a3724d6feaa986a0",
+      "amount": 38,
+      "timestamp": "2025-12-03T08:25:58.029Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9873c",
+      "bidId": "69350fcda3724d6feaa9873c",
+      "listingId": "693504fba3724d6feaa986ce",
+      "bidder": "69350099a3724d6feaa9869f",
+      "amount": 45,
+      "timestamp": "2025-12-02T00:47:25.976Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9873d",
+      "bidId": "69350fcda3724d6feaa9873d",
+      "listingId": "69350525a3724d6feaa986cf",
+      "bidder": "69350099a3724d6feaa986a0",
+      "amount": 62,
+      "timestamp": "2025-11-30T15:54:39.470Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9873e",
+      "bidId": "69350fcda3724d6feaa9873e",
+      "listingId": "69350525a3724d6feaa986cf",
+      "bidder": "69350099a3724d6feaa986a1",
+      "amount": 63,
+      "timestamp": "2025-11-30T23:32:08.569Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9873f",
+      "bidId": "69350fcda3724d6feaa9873f",
+      "listingId": "693505e0a3724d6feaa986d4",
+      "bidder": "69350099a3724d6feaa9869f",
+      "amount": 58,
+      "timestamp": "2025-12-01T05:14:39.150Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98740",
+      "bidId": "69350fcda3724d6feaa98740",
+      "listingId": "693505e0a3724d6feaa986d4",
+      "bidder": "69350099a3724d6feaa986a3",
+      "amount": 61,
+      "timestamp": "2025-12-05T05:34:06.809Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98741",
+      "bidId": "69350fcda3724d6feaa98741",
+      "listingId": "693505e0a3724d6feaa986d4",
+      "bidder": "69350099a3724d6feaa986a3",
+      "amount": 69,
+      "timestamp": "2025-11-30T23:23:36.005Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98742",
+      "bidId": "69350fcda3724d6feaa98742",
+      "listingId": "693505ffa3724d6feaa986d5",
+      "bidder": "69350099a3724d6feaa986a2",
+      "amount": 23,
+      "timestamp": "2025-12-01T23:45:22.956Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98743",
+      "bidId": "69350fcda3724d6feaa98743",
+      "listingId": "693505ffa3724d6feaa986d5",
+      "bidder": "69350099a3724d6feaa9869f",
+      "amount": 25,
+      "timestamp": "2025-12-04T19:33:35.182Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98744",
+      "bidId": "69350fcda3724d6feaa98744",
+      "listingId": "69350621a3724d6feaa986d6",
+      "bidder": "69350099a3724d6feaa986a0",
+      "amount": 72,
+      "timestamp": "2025-12-01T21:55:01.576Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98745",
+      "bidId": "69350fcda3724d6feaa98745",
+      "listingId": "69350621a3724d6feaa986d6",
+      "bidder": "69350099a3724d6feaa986a2",
+      "amount": 78,
+      "timestamp": "2025-12-02T01:26:44.534Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98746",
+      "bidId": "69350fcda3724d6feaa98746",
+      "listingId": "69350645a3724d6feaa986d7",
+      "bidder": "69350099a3724d6feaa986a1",
+      "amount": 48,
+      "timestamp": "2025-12-02T17:58:00.599Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98747",
+      "bidId": "69350fcda3724d6feaa98747",
+      "listingId": "69350667a3724d6feaa986d8",
+      "bidder": "69350099a3724d6feaa986a0",
+      "amount": 76,
+      "timestamp": "2025-12-02T01:46:33.336Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98748",
+      "bidId": "69350fcda3724d6feaa98748",
+      "listingId": "69350667a3724d6feaa986d8",
+      "bidder": "69350099a3724d6feaa986a3",
+      "amount": 86,
+      "timestamp": "2025-12-01T13:26:29.265Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98749",
+      "bidId": "69350fcda3724d6feaa98749",
+      "listingId": "693506afa3724d6feaa986da",
+      "bidder": "69350099a3724d6feaa986a1",
+      "amount": 22,
+      "timestamp": "2025-12-03T10:42:54.224Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9874a",
+      "bidId": "69350fcda3724d6feaa9874a",
+      "listingId": "693506afa3724d6feaa986da",
+      "bidder": "69350099a3724d6feaa986a0",
+      "amount": 26,
+      "timestamp": "2025-12-02T09:21:31.230Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9874b",
+      "bidId": "69350fcda3724d6feaa9874b",
+      "listingId": "693506e2a3724d6feaa986db",
+      "bidder": "6935009ba3724d6feaa986a7",
+      "amount": 15,
+      "timestamp": "2025-12-02T00:59:11.928Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9874c",
+      "bidId": "69350fcda3724d6feaa9874c",
+      "listingId": "693506e2a3724d6feaa986db",
+      "bidder": "6935009ba3724d6feaa986a6",
+      "amount": 23,
+      "timestamp": "2025-12-07T01:11:40.781Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9874d",
+      "bidId": "69350fcda3724d6feaa9874d",
+      "listingId": "69350706a3724d6feaa986dc",
+      "bidder": "6935009ba3724d6feaa986a4",
+      "amount": 45,
+      "timestamp": "2025-12-03T08:17:39.496Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9874e",
+      "bidId": "69350fcda3724d6feaa9874e",
+      "listingId": "69350706a3724d6feaa986dc",
+      "bidder": "6935009ba3724d6feaa986a7",
+      "amount": 46,
+      "timestamp": "2025-12-04T21:26:19.580Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9874f",
+      "bidId": "69350fcda3724d6feaa9874f",
+      "listingId": "6935072ba3724d6feaa986dd",
+      "bidder": "6935009ba3724d6feaa986a5",
+      "amount": 32,
+      "timestamp": "2025-12-04T05:01:47.452Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98750",
+      "bidId": "69350fcda3724d6feaa98750",
+      "listingId": "6935072ba3724d6feaa986dd",
+      "bidder": "6935009ba3724d6feaa986a7",
+      "amount": 34,
+      "timestamp": "2025-12-04T17:43:17.083Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98751",
+      "bidId": "69350fcda3724d6feaa98751",
+      "listingId": "6935072ba3724d6feaa986dd",
+      "bidder": "6935009ba3724d6feaa986a5",
+      "amount": 35,
+      "timestamp": "2025-12-01T17:28:02.730Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98752",
+      "bidId": "69350fcda3724d6feaa98752",
+      "listingId": "69350757a3724d6feaa986de",
+      "bidder": "6935009ba3724d6feaa986a6",
+      "amount": 27,
+      "timestamp": "2025-12-03T10:14:04.346Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98753",
+      "bidId": "69350fcda3724d6feaa98753",
+      "listingId": "69350757a3724d6feaa986de",
+      "bidder": "6935009ba3724d6feaa986a8",
+      "amount": 32,
+      "timestamp": "2025-12-03T23:21:58.238Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98754",
+      "bidId": "69350fcda3724d6feaa98754",
+      "listingId": "69350757a3724d6feaa986de",
+      "bidder": "6935009ba3724d6feaa986a4",
+      "amount": 34,
+      "timestamp": "2025-12-01T03:21:18.227Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98755",
+      "bidId": "69350fcda3724d6feaa98755",
+      "listingId": "6935079da3724d6feaa986e0",
+      "bidder": "6935009ba3724d6feaa986a7",
+      "amount": 76,
+      "timestamp": "2025-12-02T15:25:31.858Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98756",
+      "bidId": "69350fcda3724d6feaa98756",
+      "listingId": "6935079da3724d6feaa986e0",
+      "bidder": "6935009ba3724d6feaa986a6",
+      "amount": 85,
+      "timestamp": "2025-11-30T10:34:14.341Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98757",
+      "bidId": "69350fcda3724d6feaa98757",
+      "listingId": "6935079da3724d6feaa986e0",
+      "bidder": "6935009ba3724d6feaa986a8",
+      "amount": 94,
+      "timestamp": "2025-12-03T17:06:55.754Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98758",
+      "bidId": "69350fcda3724d6feaa98758",
+      "listingId": "693507e0a3724d6feaa986e2",
+      "bidder": "6935009ba3724d6feaa986a5",
+      "amount": 42,
+      "timestamp": "2025-12-02T04:19:38.955Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98759",
+      "bidId": "69350fcda3724d6feaa98759",
+      "listingId": "6935082da3724d6feaa986e4",
+      "bidder": "6935009ba3724d6feaa986a5",
+      "amount": 27,
+      "timestamp": "2025-12-06T00:19:42.343Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9875a",
+      "bidId": "69350fcda3724d6feaa9875a",
+      "listingId": "693508aea3724d6feaa986e7",
+      "bidder": "6935009ba3724d6feaa986a8",
+      "amount": 62,
+      "timestamp": "2025-12-06T05:29:19.201Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9875b",
+      "bidId": "69350fcda3724d6feaa9875b",
+      "listingId": "693508aea3724d6feaa986e7",
+      "bidder": "6935009ba3724d6feaa986a5",
+      "amount": 67,
+      "timestamp": "2025-12-03T07:46:09.437Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9875c",
+      "bidId": "69350fcda3724d6feaa9875c",
+      "listingId": "693508d3a3724d6feaa986e8",
+      "bidder": "6935009ba3724d6feaa986a6",
+      "amount": 43,
+      "timestamp": "2025-11-30T13:21:28.483Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9875d",
+      "bidId": "69350fcda3724d6feaa9875d",
+      "listingId": "693508d3a3724d6feaa986e8",
+      "bidder": "6935009ba3724d6feaa986a8",
+      "amount": 47,
+      "timestamp": "2025-12-03T05:15:00.085Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9875e",
+      "bidId": "69350fcda3724d6feaa9875e",
+      "listingId": "69350916a3724d6feaa986ea",
+      "bidder": "6935009ba3724d6feaa986a8",
+      "amount": 66,
+      "timestamp": "2025-12-04T14:34:24.911Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9875f",
+      "bidId": "69350fcda3724d6feaa9875f",
+      "listingId": "69350916a3724d6feaa986ea",
+      "bidder": "6935009ba3724d6feaa986a7",
+      "amount": 70,
+      "timestamp": "2025-12-02T21:57:53.630Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98760",
+      "bidId": "69350fcda3724d6feaa98760",
+      "listingId": "69350916a3724d6feaa986ea",
+      "bidder": "6935009ba3724d6feaa986a6",
+      "amount": 73,
+      "timestamp": "2025-12-06T16:04:03.699Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98761",
+      "bidId": "69350fcda3724d6feaa98761",
+      "listingId": "69350962a3724d6feaa986ec",
+      "bidder": "6935009ba3724d6feaa986a8",
+      "amount": 47,
+      "timestamp": "2025-12-02T14:30:15.866Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98762",
+      "bidId": "69350fcda3724d6feaa98762",
+      "listingId": "69350962a3724d6feaa986ec",
+      "bidder": "6935009ba3724d6feaa986a4",
+      "amount": 57,
+      "timestamp": "2025-12-02T10:53:40.577Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98763",
+      "bidId": "69350fcda3724d6feaa98763",
+      "listingId": "69350962a3724d6feaa986ec",
+      "bidder": "6935009ba3724d6feaa986a4",
+      "amount": 65,
+      "timestamp": "2025-12-03T05:35:14.288Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98764",
+      "bidId": "69350fcda3724d6feaa98764",
+      "listingId": "69350a0aa3724d6feaa986f0",
+      "bidder": "6935009da3724d6feaa986ac",
+      "amount": 31,
+      "timestamp": "2025-12-05T02:42:48.769Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98765",
+      "bidId": "69350fcda3724d6feaa98765",
+      "listingId": "69350a2fa3724d6feaa986f1",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 26,
+      "timestamp": "2025-12-04T19:26:52.657Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98766",
+      "bidId": "69350fcda3724d6feaa98766",
+      "listingId": "69350a66a3724d6feaa986f2",
+      "bidder": "6935009da3724d6feaa986ad",
+      "amount": 36,
+      "timestamp": "2025-12-05T21:08:10.137Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98767",
+      "bidId": "69350fcda3724d6feaa98767",
+      "listingId": "69350a66a3724d6feaa986f2",
+      "bidder": "6935009da3724d6feaa986ad",
+      "amount": 39,
+      "timestamp": "2025-12-01T07:51:34.803Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98768",
+      "bidId": "69350fcda3724d6feaa98768",
+      "listingId": "69350a66a3724d6feaa986f2",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 44,
+      "timestamp": "2025-12-07T03:22:07.402Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98769",
+      "bidId": "69350fcda3724d6feaa98769",
+      "listingId": "69350a89a3724d6feaa986f3",
+      "bidder": "6935009da3724d6feaa986aa",
+      "amount": 29,
+      "timestamp": "2025-12-06T21:46:31.616Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9876a",
+      "bidId": "69350fcda3724d6feaa9876a",
+      "listingId": "69350a89a3724d6feaa986f3",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 35,
+      "timestamp": "2025-11-30T16:47:25.234Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9876b",
+      "bidId": "69350fcda3724d6feaa9876b",
+      "listingId": "69350ad1a3724d6feaa986f5",
+      "bidder": "6935009da3724d6feaa986ac",
+      "amount": 99,
+      "timestamp": "2025-12-04T13:20:34.244Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9876c",
+      "bidId": "69350fcda3724d6feaa9876c",
+      "listingId": "69350af3a3724d6feaa986f6",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 62,
+      "timestamp": "2025-12-03T11:43:00.859Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9876d",
+      "bidId": "69350fcda3724d6feaa9876d",
+      "listingId": "69350ba4a3724d6feaa986fa",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 45,
+      "timestamp": "2025-12-05T16:56:04.121Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9876e",
+      "bidId": "69350fcda3724d6feaa9876e",
+      "listingId": "69350c13a3724d6feaa986fd",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 26,
+      "timestamp": "2025-12-06T12:43:34.372Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9876f",
+      "bidId": "69350fcda3724d6feaa9876f",
+      "listingId": "69350c13a3724d6feaa986fd",
+      "bidder": "6935009da3724d6feaa986ac",
+      "amount": 35,
+      "timestamp": "2025-12-06T07:41:28.034Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98770",
+      "bidId": "69350fcda3724d6feaa98770",
+      "listingId": "69350c13a3724d6feaa986fd",
+      "bidder": "6935009da3724d6feaa986aa",
+      "amount": 37,
+      "timestamp": "2025-12-06T08:34:53.919Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98771",
+      "bidId": "69350fcda3724d6feaa98771",
+      "listingId": "69350c32a3724d6feaa986fe",
+      "bidder": "6935009da3724d6feaa986aa",
+      "amount": 86,
+      "timestamp": "2025-12-03T22:51:14.690Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98772",
+      "bidId": "69350fcda3724d6feaa98772",
+      "listingId": "69350c32a3724d6feaa986fe",
+      "bidder": "6935009da3724d6feaa986ac",
+      "amount": 94,
+      "timestamp": "2025-12-02T19:31:43.570Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98773",
+      "bidId": "69350fcda3724d6feaa98773",
+      "listingId": "69350c60a3724d6feaa986ff",
+      "bidder": "6935009da3724d6feaa986ab",
+      "amount": 72,
+      "timestamp": "2025-12-06T01:14:49.319Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98774",
+      "bidId": "69350fcda3724d6feaa98774",
+      "listingId": "69350c60a3724d6feaa986ff",
+      "bidder": "6935009da3724d6feaa986ad",
+      "amount": 75,
+      "timestamp": "2025-12-01T13:12:54.005Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98775",
+      "bidId": "69350fcda3724d6feaa98775",
+      "listingId": "69350cc7a3724d6feaa98702",
+      "bidder": "6935009da3724d6feaa986a9",
+      "amount": 14,
+      "timestamp": "2025-12-06T18:42:22.011Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98776",
+      "bidId": "69350fcda3724d6feaa98776",
+      "listingId": "69350cc7a3724d6feaa98702",
+      "bidder": "6935009da3724d6feaa986aa",
+      "amount": 17,
+      "timestamp": "2025-12-02T23:14:09.215Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98777",
+      "bidId": "69350fcda3724d6feaa98777",
+      "listingId": "69350cf6a3724d6feaa98703",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 14,
+      "timestamp": "2025-12-01T04:50:47.709Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98778",
+      "bidId": "69350fcda3724d6feaa98778",
+      "listingId": "69350cf6a3724d6feaa98703",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 20,
+      "timestamp": "2025-12-05T13:33:12.926Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98779",
+      "bidId": "69350fcda3724d6feaa98779",
+      "listingId": "69350cf6a3724d6feaa98703",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 24,
+      "timestamp": "2025-12-01T09:33:47.254Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9877a",
+      "bidId": "69350fcda3724d6feaa9877a",
+      "listingId": "69350d19a3724d6feaa98704",
+      "bidder": "6935009fa3724d6feaa986ae",
+      "amount": 26,
+      "timestamp": "2025-12-04T18:52:33.595Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9877b",
+      "bidId": "69350fcda3724d6feaa9877b",
+      "listingId": "69350d19a3724d6feaa98704",
+      "bidder": "6935009fa3724d6feaa986b2",
+      "amount": 31,
+      "timestamp": "2025-12-02T12:33:32.934Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9877c",
+      "bidId": "69350fcda3724d6feaa9877c",
+      "listingId": "69350d41a3724d6feaa98705",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 67,
+      "timestamp": "2025-12-02T23:17:07.222Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9877d",
+      "bidId": "69350fcda3724d6feaa9877d",
+      "listingId": "69350d41a3724d6feaa98705",
+      "bidder": "6935009fa3724d6feaa986ae",
+      "amount": 71,
+      "timestamp": "2025-12-04T08:56:52.256Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9877e",
+      "bidId": "69350fcda3724d6feaa9877e",
+      "listingId": "69350d41a3724d6feaa98705",
+      "bidder": "6935009fa3724d6feaa986ae",
+      "amount": 77,
+      "timestamp": "2025-12-02T01:59:11.778Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9877f",
+      "bidId": "69350fcda3724d6feaa9877f",
+      "listingId": "69350d99a3724d6feaa98707",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 31,
+      "timestamp": "2025-12-04T16:33:02.576Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98780",
+      "bidId": "69350fcda3724d6feaa98780",
+      "listingId": "69350d99a3724d6feaa98707",
+      "bidder": "6935009fa3724d6feaa986b0",
+      "amount": 35,
+      "timestamp": "2025-12-02T22:40:41.685Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98781",
+      "bidId": "69350fcda3724d6feaa98781",
+      "listingId": "69350dbea3724d6feaa98708",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 77,
+      "timestamp": "2025-11-30T10:44:59.469Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98782",
+      "bidId": "69350fcda3724d6feaa98782",
+      "listingId": "69350dbea3724d6feaa98708",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 85,
+      "timestamp": "2025-12-01T14:38:29.856Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98783",
+      "bidId": "69350fcda3724d6feaa98783",
+      "listingId": "69350dbea3724d6feaa98708",
+      "bidder": "6935009fa3724d6feaa986b2",
+      "amount": 95,
+      "timestamp": "2025-12-02T22:22:32.134Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98784",
+      "bidId": "69350fcda3724d6feaa98784",
+      "listingId": "69350e18a3724d6feaa9870a",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 45,
+      "timestamp": "2025-12-06T14:22:39.988Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98785",
+      "bidId": "69350fcda3724d6feaa98785",
+      "listingId": "69350e18a3724d6feaa9870a",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 52,
+      "timestamp": "2025-12-04T17:11:17.340Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98786",
+      "bidId": "69350fcda3724d6feaa98786",
+      "listingId": "69350e6aa3724d6feaa9870c",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 35,
+      "timestamp": "2025-12-05T08:32:25.232Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98787",
+      "bidId": "69350fcda3724d6feaa98787",
+      "listingId": "69350e6aa3724d6feaa9870c",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 42,
+      "timestamp": "2025-12-03T17:06:10.890Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98788",
+      "bidId": "69350fcda3724d6feaa98788",
+      "listingId": "69350e96a3724d6feaa9870d",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 23,
+      "timestamp": "2025-12-05T10:16:41.458Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98789",
+      "bidId": "69350fcda3724d6feaa98789",
+      "listingId": "69350e96a3724d6feaa9870d",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 30,
+      "timestamp": "2025-12-04T04:43:36.800Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9878a",
+      "bidId": "69350fcda3724d6feaa9878a",
+      "listingId": "69350e96a3724d6feaa9870d",
+      "bidder": "6935009fa3724d6feaa986af",
+      "amount": 33,
+      "timestamp": "2025-12-01T05:33:26.742Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9878b",
+      "bidId": "69350fcda3724d6feaa9878b",
+      "listingId": "69350edba3724d6feaa9870f",
+      "bidder": "6935009fa3724d6feaa986b2",
+      "amount": 91,
+      "timestamp": "2025-12-06T08:49:45.266Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9878c",
+      "bidId": "69350fcda3724d6feaa9878c",
+      "listingId": "69350f3fa3724d6feaa98712",
+      "bidder": "6935009fa3724d6feaa986b2",
+      "amount": 125,
+      "timestamp": "2025-12-01T12:16:21.743Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9878d",
+      "bidId": "69350fcda3724d6feaa9878d",
+      "listingId": "69350f87a3724d6feaa98714",
+      "bidder": "6935009fa3724d6feaa986b2",
+      "amount": 35,
+      "timestamp": "2025-12-06T23:31:54.433Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9878e",
+      "bidId": "69350fcda3724d6feaa9878e",
+      "listingId": "69350f87a3724d6feaa98714",
+      "bidder": "6935009fa3724d6feaa986ae",
+      "amount": 45,
+      "timestamp": "2025-12-06T18:39:42.781Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa9878f",
+      "bidId": "69350fcda3724d6feaa9878f",
+      "listingId": "69350f87a3724d6feaa98714",
+      "bidder": "6935009fa3724d6feaa986ae",
+      "amount": 47,
+      "timestamp": "2025-12-03T08:02:04.012Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98790",
+      "bidId": "69350fcda3724d6feaa98790",
+      "listingId": "69350fcda3724d6feaa98716",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 34,
+      "timestamp": "2025-12-02T03:25:38.705Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98791",
+      "bidId": "69350fcda3724d6feaa98791",
+      "listingId": "69350fcda3724d6feaa98716",
+      "bidder": "6935009fa3724d6feaa986b1",
+      "amount": 42,
+      "timestamp": "2025-12-03T02:58:36.796Z",
+      "withdrawn": false
+    },
+    {
+      "_id": "69350fcda3724d6feaa98792",
+      "bidId": "69350fcda3724d6feaa98792",
+      "listingId": "69350fcda3724d6feaa98716",
+      "bidder": "6935009fa3724d6feaa986b0",
+      "amount": 52,
+      "timestamp": "2025-12-03T02:14:10.044Z",
+      "withdrawn": false
+    }
+  ]
+}

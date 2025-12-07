@@ -1,0 +1,19 @@
+{
+    "tasks": {
+        "concepts": "deno run --allow-net --allow-env --allow-read --allow-sys src/concept-server.ts",
+        "start": "deno run --allow-net --allow-env --allow-read --allow-sys src/concept-server.ts",
+        "build": "echo 'Sync engine ready. No build needed for Deno.'",
+        "generate-to-file": "deno run --allow-net --allow-env --allow-read --allow-write src/scripts/generate-to-file.ts",
+        "populate-from-file": "deno run --allow-net --allow-env --allow-read --allow-write src/scripts/populate-from-file.ts"
+    },
+    "imports": {
+        "mongo": "npm:mongodb@^6.0.0",
+        "cors": "jsr:@std/http@^1.0.0"
+    },
+    "compilerOptions": {
+        "strict": true,
+        "lib": [
+            "deno.window"
+        ]
+    }
+}

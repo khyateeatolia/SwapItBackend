@@ -1,0 +1,29 @@
+services:
+  # Backend API Server
+  - type: web
+    name: campuscloset-backend
+    runtime: deno
+    repo: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME  # Update this
+    branch: main
+    buildCommand: echo "Deno requires no build"
+    startCommand: deno task start
+    envVars:
+      - key: MONGODB_URL
+        sync: false  # Set in Render dashboard
+      - key: DB_NAME
+        value: campuscloset_production
+    healthCheckPath: /
+    
+  # Frontend Static Site
+  - type: web
+    name: campuscloset-frontend
+    runtime: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://campuscloset-backend.onrender.com/api  # Update after backend deploys
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
