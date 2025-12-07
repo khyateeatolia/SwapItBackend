@@ -35,7 +35,6 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 | Bidding         | [Spec](specs/Bidding-spec.md)         | [Design](design/Bidding-design.md)         | [Tests](test-outputs/Bidding-test-output.md)         |
 | MessagingThread | [Spec](specs/MessagingThread-spec.md) | [Design](design/MessagingThread-design.md) | [Tests](test-outputs/MessagingThread-test-output.md) |
 | Feed            | [Spec](specs/Feed-spec.md)            | [Design](design/Feed-design.md)            | [Tests](test-outputs/Feed-test-output.md)            |
-| Requesting      | [Spec](specs/Requesting-spec.md)      | -                                          | -                                                    |
 
 ---
 
