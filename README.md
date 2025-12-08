@@ -11,9 +11,7 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 
 ## Documentation
 
-### Required by Assignment 4c
-
-- [Final Design Document](design/design-decision.md) - Evolution from A2
+- [Final Design Document](design/design-decisions.md) - Evolution from A2
   to final design
 - [Reflection](design/reflection.md) - Project experience and learnings
 - [Action Trace](design/action_trace.md) - Console output from demo
@@ -26,7 +24,7 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 
 ---
 
-## Concept Specifications (Assignment 4a)
+## Concept Specifications
 
 | Concept         | Specification                         | Design Doc                                 | Test Output                                          |
 | --------------- | ------------------------------------- | ------------------------------------------ | ---------------------------------------------------- |
@@ -40,7 +38,7 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 
 ## API Specification
 
-- [API.md](API.md) - Complete API documentation for all concept actions
+- [API.md](src/API.md) - Complete API documentation for all concept actions
 
 ---
 
