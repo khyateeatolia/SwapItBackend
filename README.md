@@ -14,7 +14,7 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 - [Final Design Document](design/design-decisions.md) - Evolution from A2
   to final design
 - [Reflection](design/reflection.md) - Project experience and learnings
-- [Action Trace](design/action_trace.md) - Console output from demo
+- [Action Trace](design/action_trace.md) - Console output from render
 - [Design Decisions](design/design-decisions.md) - Key architectural and UX
   decisions
 
