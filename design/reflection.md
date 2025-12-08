@@ -141,25 +141,6 @@ This reflection covers my experience developing CampusCloset across Assignments 
 
 ---
 
-## Conclusions About LLMs in Development
-
-### Appropriate Roles:
- **Accelerator** for experienced developers  
- **Teacher** for learning new frameworks  
- **Assistant** for boilerplate and docs  
- **Debugger** for understanding errors  
-
-### Inappropriate Roles:
- **Sole decision maker** on architecture  
- **Replacement** for domain expertise  
- **Substitute** for security review  
- **Final authority** on correctness  
-
-### Key Insight:
-**LLMs are powerful pair programmers, not autonomous developers.**  
-They amplify human expertise but don't replace judgment, creativity, or deep understanding.
-
----
 
 ## Mistakes Made & How to Avoid
 
@@ -185,42 +166,6 @@ They amplify human expertise but don't replace judgment, creativity, or deep und
 
 ---
 
-## Project Management Insights
-
-### What Worked:
-- **Breaking into assignments** (4a, 4b, 4c) provided structure
-- **Incremental testing** caught issues early
-- **Documentation alongside code** prevented knowledge loss
-
-### What Could Improve:
-- **Earlier deployment** to catch environment issues
-- **Continuous integration** to catch breaks immediately
-- **Performance benchmarking** to guide optimization
-
----
-
-## Personal Growth
-
-**Most Valuable Learnings:**
-1. **Design patterns matter** for maintainability
-2. **Security can't be bolted on** later
-3. **User experience** requires iteration and testing
-4. **Documentation** is for future-me
-
-**Confidence Gained:**
-- Full-stack development (backend + frontend + deployment)
-- TypeScript across the stack
-- Modern web frameworks (Vue 3, Deno)
-- System design and architecture
-
-**Areas for Growth:**
-- Production monitoring and debugging
-- Advanced database optimization
-- Security best practices
-- Scale and performance
-
----
-
 ## Final Thoughts
 
 Building CampusCloset taught me that **good software is about trade-offs**, not absolutes. Concept independence is valuable, but denormalization sometimes makes sense. LLMs are powerful, but human judgment is irreplaceable. Perfect code is impossible; pragmatic, working code is the goal.
@@ -233,7 +178,5 @@ The project reinforced that **software engineering is as much about communicatio
 **Lines of Code:** ~4,500  
 **Concepts Implemented:** 5 + Requesting  
 **Tests Written:** 30  
-**Bugs Found & Fixed:** Too many to count 😅
+**Bugs Found & Fixed:** Too many to count I fear!
 
-**Would I do it differently?** Absolutely.  
-**Would the end result be better?** Maybe not - sometimes learning requires making mistakes.
