@@ -8,8 +8,7 @@ threaded conversations.
 ## Operational Principle
 
 After a buyer shows interest in a listing, they can start a conversation thread
-with the seller. Both parties can exchange messages in the thread. When the
-transaction is complete, the seller marks the pickup as complete.
+with the seller for that listing. Both parties can exchange messages in the thread. 
 
 ## State
 
@@ -127,9 +126,8 @@ exists)
 2. Each thread has exactly 2 participants (buyer and seller)
 3. Threads are immutable once created (participants cannot change)
 4. Only participants can post messages in a thread
-5. Only the seller can mark pickup as complete
-6. Messages are ordered by timestamp
-7. Each thread is associated with exactly one listing
+5. Messages are ordered by timestamp
+6. Each thread is associated with exactly one listing
 
 ## Dependencies
 
