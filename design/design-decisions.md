@@ -1,7 +1,7 @@
 # SwapIt Design Decisions
 
 This document captures ALL key decisions made during the development of SwapIt,
-extracted from development conversations and implementation work.
+including all of the interesting moments encountered and the design changes made. 
 
 ---
 
