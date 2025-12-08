@@ -13,7 +13,7 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 
 ### Required by Assignment 4c
 
-- [Final Design Document](design/final-design-document.md) - Evolution from A2
+- [Final Design Document](design/design-decision.md) - Evolution from A2
   to final design
 - [Reflection](design/reflection.md) - Project experience and learnings
 - [Action Trace](design/action_trace.md) - Console output from demo
@@ -50,7 +50,11 @@ A secure, campus-exclusive secondhand fashion marketplace for verified students.
 
 ```bash
 export MONGODB_URL="your_mongodb_connection_string"
-export DB_NAME="assignment4a"
+export DB_NAME="table_name"
+
+CLOUDINARY_CLOUD_NAME="your_cloud_name"
+CLOUDINARY_API_KEY="your_api_key"
+CLOUDINARY_API_SECRET="your_api_secret"
 deno run --allow-net --allow-env --allow-read --allow-write --allow-sys -c deno.json src/concept-server.ts
 ```
 
