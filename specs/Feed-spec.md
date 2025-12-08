@@ -58,6 +58,24 @@ can be paginated for performance.
 
 ---
 
+### getByCondition(condition: string, limit?: number) → Listing[]
+
+**Purpose:** Get active listings filtered by a specific condition\
+**Preconditions:**
+
+- condition is a non-empty string
+- limit is a positive number (default: 20)
+
+**Postconditions:**
+
+- None (read-only operation)
+- Returns only active listings containing the specified tag
+- Sorts by createdAt (newest first)
+
+**Returns:** Array of listing objects
+
+---
+
 ### getByPrice(minPrice?: number, maxPrice?: number, limit?: number) → Listing[]
 
 **Purpose:** Get active listings within a price range\
